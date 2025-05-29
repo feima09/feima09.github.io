@@ -29,7 +29,7 @@ My research areas include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Educations
-- *2017 - 2022*, Ph.D. in ​​Information and Communication Engineering​​, Tsinghua Universit
+- *2017 - 2022*, Ph.D. in ​​Information and Communication Engineering​​, Tsinghua University
 - *2013 - 2017*, B.Eng. in ​​Communication Engineering​​, University of Electronic Science and Technology of China (Ranked ​​1st/363​​ in the program)
  
 <span class='anchor' id='-lwzl'></span>
