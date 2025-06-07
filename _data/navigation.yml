@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "Short Bio"
     url: "/#about-me"
 
-  - title: "Educations"
+  - title: "Recent News"
     url: "/#-xl"
 
-  - title: "Publications"
+  - title: "Research Team"
     url: "/#-lwzl"
 
-  # - title: "Honors and Awards"
-  #   url: "/#-ryjx"
+  - title: "Other Activities"
+    url: "/#-ryjx"
 
   # - title: "学术会议"
   #   url: "/#-xshy"

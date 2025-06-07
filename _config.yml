@@ -1,35 +1,28 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 title                    : "Fei Ma (马飞)"
-description              : "Head of Media Intelligence Team"
-repository               : "fm-ei/fm-ei.github.io"
+description              : "Researcher, Principal Investigator"
+repository               : "feima09/feima09.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification : # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Fei Ma (马飞)"
   avatar           : "images/mafei.png"
-  bio              : "GUANGMING Lab"
-  location         : "Guangzhou Shenzhen"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)"
+  location         : 
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "mafei@gml.ac.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  researchgate     :
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +30,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fm-ei"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
