@@ -24,17 +24,22 @@ redirect_from:
 &emsp;&emsp;Currently, he is actively looking for interns and visiting students (online or offline) who are passionate about the above research areas. Interested candidates are welcome to contact via email.
 
 <span class='anchor' id='-xl'></span>
-# 📣 Recent News (2025)
+# 📣 Recent News
+[May. 2025] One paper is accepted by IEEE Transactions on Affective Computing. Congratulations to Yifan and Yukan！
 
-| Date       | Achievement                                                                 |
-| :-------------------: | :-------------------------------: |
-| May 2025   | Paper accepted by **IEEE Transactions on Affective Computing** (Yifan & Yukan) |
-| May 2025   | Paper accepted by **ACL 2025** (Congzhi)                                     |
-| May 2025   | Paper accepted by **Information Fusion**                                     |
-| Apr 2025   | 3 papers accepted by **IJCAI 2025** (Haiwei & Chenyang)                      |
-| Apr 2025   | Paper accepted by **ICMR 2025** (Yifan)                                      |
-| Mar 2025   | 3 papers accepted by **ICME 2025** (Tao Feng, Xin Zhang, Yang Xiang)         |
-| Mar 2025   | Paper accepted by **IEEE TPAMI** (Hongwei)                                  |  
+[May. 2025] One paper is accepted by ACL 2025. Congratulations to Congzhi！
+
+[May. 2025] One paper is accepted by Information Fusion. 
+
+[Apr. 2025] Three papers are accepted by IJCAI 2025. Congratulations to Haiwei and Chenyang!
+
+[Apr. 2025] One paper is accepted by ICMR 2025. Congratulations to Yifan!
+
+[Apr. 2025] One papers is accepted by Information Fusion. 
+
+[Mar. 2025] Three papers are accepted by ICME 2025. Congratulations to Tao Feng, Xin Zhang, and Yang Xiang!
+
+[Mar. 2025] One papers is accepted by IEEE TPAMI. Congratulations to Hongwei!
 
 <span class='anchor' id='-pub'></span>
 

@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: "/#about-me"
 
-  - title: "Recent News"
-    url: "/#-xl"
+  # - title: "Recent News"
+  #   url: "/#-xl"
 
   - title: "Publication"
     url: "/#-pub"
