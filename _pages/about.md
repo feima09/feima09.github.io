@@ -111,12 +111,12 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 # 👥 Research Team
 
-| Role                  | Members                           |
-| :-------------------: | :-------------------------------: |
-| **Engineers**         | Hongbo Xu, Yiyao Zhuo, Minghui Li |
-| **PhD Students**      | He Hu (SZU), Yihong Ji (SZU)      |
-| **Master Students**   | Guojiang Li (SZU), Hao Yu (SZU)   |
-| **Interns/Visiting**  | Yifan Xie (THU), Xiaotong Luo (XMU)|
+| Role                  | Members (Affiliation)                                                                 |
+| :-------------------: | :-----------------------------------------------------------------------------------: |
+| **Engineers**         | Hongbo Xu, Yiyao Zhuo, Minghui Li                                                    |
+| **PhD Students**      | He Hu (SZU), Yihong Ji (SZU), Zebang Cheng (SZU)                                     |
+| **Master Students**   | Guojiang Li (SZU), Hao Yu (SZU)                                                      |
+| **Interns/Visiting**  | Yifan Xie (THU PhD), Xiaotong Luo (XMU PhD), Yi Zhang (CityUHK PhD),<br>Jiyue Jiang (CUHK PhD), Haiwei Xue (THU Master),<br>Yu Wang (SYSU Master), Ledong An (TJU Master), Qinda Liu (TJU Master) |
 
 <span class='anchor' id='-ryjx'></span>
 # 🌐 Academic Activities
