@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Short Bio
+# Home
 &emsp;&emsp;Fei Ma is currently a Researcher and Principal Investigator at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), also known as Guangming Laboratory. He leads a research team of over 10 members, focusing on cutting-edge areas including affective computing, AIGC, human motion generation, and multimodal large models. Prior to joining Guangming Laboratory, he served as a Senior Engineer at Huawei Cloud, where he gained substantial industry experience.
 
 &emsp;&emsp;He received the B.S. degree from the University of Electronic Science and Technology of China (UESTC) in 2017, ranking first among 363 students in his major. He earned his Ph.D. degree from Tsinghua University in 2022 under the supervision of Prof. Lin Zhang. He maintains close collaborations with renowned scholars including Prof. Fei Richard Yu (Member of the Academia Europaea, Fellow of the Canadian Academy of Engineering (CAE), Engineering Institute of Canada (EIC), IEEE, and IET) and Prof. Fuji Ren (Academician of The Engineering Academy of Japan and EU Academy of Sciences, fellow of The Japan Federation of Engineering Societies, IEICE, and CAAI).
@@ -36,11 +36,12 @@ redirect_from:
 | Mar 2025   | 3 papers accepted by **ICME 2025** (Tao Feng, Xin Zhang, Yang Xiang)         |
 | Mar 2025   | Paper accepted by **IEEE TPAMI** (Hongwei)                                  |  
 
-
-
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-pub'></span>
 
 # 📝 Publication 
+
+* represents the first author, # represents the corresponding author
+
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Journal Papers</span>** 
 1) <strong>F. Ma</strong>*, Y. Li, Y. Xie, Y. He, Y. Zhang, H. Ren, Z. Liu, W. Yao, F. Ren, F. Yu, S. Ni. A Review of Human Emotion Synthesis Based on Generative Technology. IEEE Transactions on Affective Computing, 2025. (IF: 9.6)
 
@@ -54,12 +55,12 @@ redirect_from:
 
 6) C. Wang, H. Yu, X. Li, <strong>F. Ma</strong>, X. Wang, T. Taleb, V. Leung. Dependency-Aware Microservice Deployment for Edge Computing: A Deep Reinforcement Learning Approach with Network Representation. IEEE Transactions on Mobile Computing, 2024. (IF: 7.7)
 
-7) Y. Liu, H. Hou, <strong>F. Ma</strong>*, S. Ni, F. Yu. MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding. IEEE Signal Processing Letters, 2024. (IF: 3.2)
+7) Y. Liu, H. Hou, <strong>F. Ma #</strong>, S. Ni, F. Yu. MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding. IEEE Signal Processing Letters, 2024. (IF: 3.2)
 
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Conference Papers</span>** 
 1) C. Zhang, J. Peng, Z. Wang, Y. Lai, H. Sun, H. Chang, <strong>F. Ma</strong>, W. Yu. VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism. ACL 2025. (CCF A)
 
-2) H. Xue, Z. Zhang, M. Li, Z. Dai, F. Yu, <strong>F. Ma</strong>*, Z. Wu. VideoHumanMIB: Unlocking Appearance Decoupling for Video Human Motion In-betweening. IJCAI 2025. (CCF A)
+2) H. Xue, Z. Zhang, M. Li, Z. Dai, F. Yu, <strong>F. Ma #</strong>, Z. Wu. VideoHumanMIB: Unlocking Appearance Decoupling for Video Human Motion In-betweening. IJCAI 2025. (CCF A)
 
 3) W. Feng, Y. Zhu, R. Zhang, C. Wang, <strong>F. Ma</strong>, X. Wang, X. Li. Active Multimodal Distillation for Few-shot Action Recognition. IJCAI 2025. (CCF A)
 
@@ -67,13 +68,13 @@ redirect_from:
 
 5) Y. Xie, <strong>F. Ma</strong>*, Y. Bin, Y. He, F. Yu. Audio-Driven Talking Face Video Generation with Joint Uncertainty Learning. ACM ICMR 2025. 
 
-6) Y. Xie, T. Feng, X. Zhang, X. Luo, Z. Guo, W. Yu, H. Chang, <strong>F. Ma</strong>*, F. Yu. PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis. AAAI 2025. (CCF A)
+6) Y. Xie, T. Feng, X. Zhang, X. Luo, Z. Guo, W. Yu, H. Chang, <strong>F. Ma #</strong>, F. Yu. PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis. AAAI 2025. (CCF A)
 
-7) X. Xiang, Z. Dai, H. Xue, D. Wang, M. Li, Y. Yue, <strong>F. Ma</strong>*, W. Yu, H. Chang, F. Yu. ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters. AAAI 2025. (CCF A)
+7) X. Xiang, Z. Dai, H. Xue, D. Wang, M. Li, Y. Yue, <strong>F. Ma #</strong>, W. Yu, H. Chang, F. Yu. ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters. AAAI 2025. (CCF A)
 
 8) L. Wang, S. Shi, <strong>F. Ma</strong>, F. Yu, P. Li, Y. He. Subgraph Invariant Learning towards Large-scale Graph Node Classification. AAAI 2025. (CCF A)
 
-9) X. Luo, X. Zhang, Y. Xie, X. Tong, W. Yu, H. Chang, <strong>F. Ma</strong>*, F. Yu. CodeSwap: Symmetrically Face Swapping Based on Prior Codebook. ACM MM 2024. (CCF A)
+9) X. Luo, X. Zhang, Y. Xie, X. Tong, W. Yu, H. Chang, <strong>F. Ma #</strong>, F. Yu. CodeSwap: Symmetrically Face Swapping Based on Prior Codebook. ACM MM 2024. (CCF A)
 
 10) L. Xiong, X. Cheng, J. Tan, X. Wu, X. Li, L. Zhu, <strong>F. Ma</strong>, M. Li, H. Xu, Z. Hu. SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing. ACM MM 2024. (CCF A)
 
@@ -119,10 +120,15 @@ redirect_from:
 | **Interns/Visiting**  | Yifan Xie (THU PhD), Xiaotong Luo (XMU PhD), Yi Zhang (CityUHK PhD),<br>Jiyue Jiang (CUHK PhD), Haiwei Xue (THU Master),<br>Yu Wang (SYSU Master), Ledong An (TJU Master), Qinda Liu (TJU Master) |
 
 <span class='anchor' id='-ryjx'></span>
-# 🌐 Academic Activities
-- **Journal Reviewer**:  
-  IEEE Transactions on Human-Machine Systems, Pattern Recognition  
-- **Conference PC Member**:  
-  NeurIPS, ICLR, CVPR, ACM Multimedia  
+# 🌐 Other Activities
+- **Program Committee Member / Reviewer:**
+
+&emsp;&emsp;<strong>Journals</strong>:  IEEE Transactions on Human-Machine Systems, Pattern Recognition, Computers in Industry, Software: Practice and Experience
+
+&emsp;&emsp;<strong>Conferences</strong>: Conference on Neural Information Processing Systems (NeurIPS), International Conference on Learning Representations (ICLR), Conference on Computer Vision and Pattern Recognition (CVPR), ACM Multimedia, International Conference on Acoustics, Speech, and Signal Processing (ICASSP), IEEE International Conference on Multimedia & Expo (ICME)
+
 - **Teaching**:  
-  Machine Learning (SZU, 2025), Social Psychology & Behavioral Big Data (BNU Zhuhai, 2023)  
+
+&emsp;&emsp;Machine Learning, Spring 2025, SZU
+
+&emsp;&emsp;Social Psychology and Behavioral Big Data, Spring 2023, BNU Zhuhai
