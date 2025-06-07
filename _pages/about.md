@@ -47,8 +47,7 @@ redirect_from:
 
 * represents the first author, # represents the corresponding author
 
-* Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate 
-
+* For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Journal Papers</span>** 
 
 1) <strong>F. Ma</strong>*, Y. Li, Y. Xie, Y. He, Y. Zhang, H. Ren, Z. Liu, W. Yao, F. Ren, F. Yu, S. Ni. A Review of Human Emotion Synthesis Based on Generative Technology. IEEE Transactions on Affective Computing, 2025. (IF: 9.6)
