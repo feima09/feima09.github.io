@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-&emsp;&emsp;Fei Ma is currently a Researcher and Principal Investigator at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), also known as Guangming Laboratory. He leads a research team of over 10 members, focusing on cutting-edge areas including affective computing, AIGC, human motion generation, and multimodal large models. Prior to joining Guangming Laboratory, he served as a Senior Engineer at Huawei Cloud, where he gained substantial industry experience.
+&emsp;&emsp;Fei Ma is a Researcher and Principal Investigator at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), also known as Guangming Laboratory. He leads a research team of over 10 members, focusing on cutting-edge areas including <strong>affective computing</strong>, <strong>multimodal large models</strong>，<strong>AIGC</strong>, and <strong>human motion generation</strong>. Prior to joining Guangming Laboratory, he served as a Senior Engineer at Huawei Cloud, where he gained substantial industry experience.
 
-&emsp;&emsp;He received the B.S. degree from the University of Electronic Science and Technology of China (UESTC) in 2017, ranking first among 363 students in his major. He earned his Ph.D. degree from Tsinghua University in 2022 under the supervision of Prof. Lin Zhang. He maintains close collaborations with renowned scholars including Prof. Fei Richard Yu (Member of the Academia Europaea, Fellow of the Canadian Academy of Engineering (CAE), Engineering Institute of Canada (EIC), IEEE, and IET) and Prof. Fuji Ren (Academician of The Engineering Academy of Japan and EU Academy of Sciences, fellow of The Japan Federation of Engineering Societies, IEICE, and CAAI).
+&emsp;&emsp;He received the B.S. degree from the University of Electronic Science and Technology of China (UESTC) in 2017, ranking first among 363 students in his major. He earned his Ph.D. degree from Tsinghua University in 2022 under the supervision of Prof. Lin Zhang. He maintains close collaborations with renowned scholars including Prof. [Fei Richard Yu](https://scholar.google.ca/citations?user=zuGMGBoAAAAJ&hl=en) (Member of the Academia Europaea, Fellow of the Canadian Academy of Engineering (CAE), Engineering Institute of Canada (EIC), IEEE, and IET) and Prof. [Fuji Ren](https://scholar.google.com/citations?user=eyLJ0fMAAAAJ&hl=zh-CN) (Academician of The Engineering Academy of Japan and EU Academy of Sciences, fellow of The Japan Federation of Engineering Societies, IEICE, and CAAI).
 
 &emsp;&emsp;Currently, he is actively looking for interns and visiting students (online or offline) who are passionate about the above research areas. Interested candidates are welcome to contact via email.
 
@@ -125,7 +125,7 @@ redirect_from:
 | **Master Students**   | Guojiang Li (SZU), Hao Yu (SZU)                                                      |
 | **Interns/Visiting**  | Yifan Xie (THU PhD), Xiaotong Luo (XMU PhD), Yi Zhang (CityUHK PhD),<br>Jiyue Jiang (CUHK PhD), Haiwei Xue (THU Master),<br>Yu Wang (SYSU Master), Ledong An (TJU Master), Qinda Liu (TJU Master) | -->
 <!-- **Engineer：** -->
-### **<span style="font-size: 1.2em; color: #2E86C1;">Engineer：</span>** 
+### **<span style="font-size: 1.2em; color: #2E86C1;">Engineers：</span>** 
 Hongbo Xu
 
 Yiyao Zhuo
@@ -134,25 +134,25 @@ Minghui Li
 
 <!-- **Interns/Visiting Students：** -->
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Interns/Visiting Students：</span>** 
-Yifan Xie PhD Student of THU
+Yifan Xie, PhD Student of THU
 
-Haiwei Xue Master Student of THU
+Haiwei Xue, Master Student of THU
 
-Yu Wang Master Student of SYSU
+Yu Wang, Master Student of SYSU
 
-Ledong An Master Student of TJU
+Ledong An, Master Student of TJU
 
 <!-- **PhD Students：** -->
 ### **<span style="font-size: 1.2em; color: #2E86C1;">PhD Students：</span>** 
-He Hu          SZU
+He Hu, SZU
 
-Yihong Ji       SZU
+Yihong Ji, SZU
 
-Zebang Cheng   SZU
+Zebang Cheng, SZU
 
 <!-- **Master Students：** -->
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Master Students：</span>** 
-Guojiang Li   SZU
+Guojiang Li, SZU
 
 <span class='anchor' id='-ryjx'></span>
 # 🌐 Other Activities
