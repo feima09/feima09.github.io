@@ -135,21 +135,13 @@ Minghui Li
 
 <!-- **Interns/Visiting Students：** -->
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Interns/Visiting Students：</span>** 
-Yifan Xie       PhD Student of THU
+Yifan Xie PhD Student of THU
 
-Xiaotong Luo    PhD Student of XMU
+Haiwei Xue Master Student of THU
 
-Yi Zhang       PhD Student of CityUHK
+Yu Wang Master Student of SYSU
 
-Jiyue Jiang      PhD Student of CUHK
-
-Haiwei Xue      Master Student of THU
-
-Yu Wang        Master Student of SYSU
-
-Ledong An       Master Student of TJU
-
-Qinda Liu        Master Student of TJU
+Ledong An Master Student of TJU
 
 <!-- **PhD Students：** -->
 ### **<span style="font-size: 1.2em; color: #2E86C1;">PhD Students：</span>** 
@@ -162,8 +154,6 @@ Zebang Cheng   SZU
 <!-- **Master Students：** -->
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Master Students：</span>** 
 Guojiang Li   SZU
-
-Hao Yu      SZU
 
 <span class='anchor' id='-ryjx'></span>
 # 🌐 Other Activities
