@@ -45,7 +45,7 @@ redirect_from:
 
 # 📝 Publications
 
-* represents the first author, # represents the corresponding author
+* represents the first author, # represents the corresponding author.
 
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Journal Papers</span>** 
