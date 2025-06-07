@@ -6,10 +6,10 @@ main:
   # - title: "Recent News"
   #   url: "/#-xl"
 
-  - title: "Publication"
+  - title: "Publications"
     url: "/#-pub"
 
-  - title: "Research Team"
+  - title: "Team"
     url: "/#-lwzl"
 
   - title: "Other Activities"

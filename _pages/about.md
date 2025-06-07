@@ -43,12 +43,14 @@ redirect_from:
 
 <span class='anchor' id='-pub'></span>
 
-# 📝 Publication 
+# 📝 Publications
 
 * represents the first author, # represents the corresponding author
 
 * Google Scholar: https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate 
+
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Journal Papers</span>** 
+
 1) <strong>F. Ma</strong>*, Y. Li, Y. Xie, Y. He, Y. Zhang, H. Ren, Z. Liu, W. Yao, F. Ren, F. Yu, S. Ni. A Review of Human Emotion Synthesis Based on Generative Technology. IEEE Transactions on Affective Computing, 2025. (IF: 9.6)
 
 2) H. Hou, <strong>F. Ma</strong>*, Z. Li, F. Yu. VisualRWKV-HM: Enhancing Linear Visual-Language Models via Hybrid Mixing. Information Fusion, 2025. (IF: 14.8)
@@ -116,14 +118,52 @@ redirect_from:
 15) 彭亮，<strong>马飞</strong>*，李明磊，怀宝兴。一种虚拟对象的动作图像数据生成方法、装置及相关设备。202310489294.8
 
 <span class='anchor' id='-lwzl'></span>
-# 👥 Research Team
-
-| Role                  | Members (Affiliation)                                                                 |
+# 👥 Team
+<!-- | Role                  | Members (Affiliation)                                                                 |
 | :-------------------: | :-----------------------------------------------------------------------------------: |
 | **Engineers**         | Hongbo Xu, Yiyao Zhuo, Minghui Li                                                    |
 | **PhD Students**      | He Hu (SZU), Yihong Ji (SZU), Zebang Cheng (SZU)                                     |
 | **Master Students**   | Guojiang Li (SZU), Hao Yu (SZU)                                                      |
-| **Interns/Visiting**  | Yifan Xie (THU PhD), Xiaotong Luo (XMU PhD), Yi Zhang (CityUHK PhD),<br>Jiyue Jiang (CUHK PhD), Haiwei Xue (THU Master),<br>Yu Wang (SYSU Master), Ledong An (TJU Master), Qinda Liu (TJU Master) |
+| **Interns/Visiting**  | Yifan Xie (THU PhD), Xiaotong Luo (XMU PhD), Yi Zhang (CityUHK PhD),<br>Jiyue Jiang (CUHK PhD), Haiwei Xue (THU Master),<br>Yu Wang (SYSU Master), Ledong An (TJU Master), Qinda Liu (TJU Master) | -->
+<!-- **Engineer：** -->
+### **<span style="font-size: 1.2em; color: #2E86C1;">Engineer：</span>** 
+Hongbo Xu
+
+Yiyao Zhuo
+
+Minghui Li
+
+<!-- **Interns/Visiting Students：** -->
+### **<span style="font-size: 1.2em; color: #2E86C1;">Interns/Visiting Students：</span>** 
+Yifan Xie       PhD Student of THU
+
+Xiaotong Luo    PhD Student of XMU
+
+Yi Zhang       PhD Student of CityUHK
+
+Jiyue Jiang      PhD Student of CUHK
+
+Haiwei Xue      Master Student of THU
+
+Yu Wang        Master Student of SYSU
+
+Ledong An       Master Student of TJU
+
+Qinda Liu        Master Student of TJU
+
+<!-- **PhD Students：** -->
+### **<span style="font-size: 1.2em; color: #2E86C1;">PhD Students：</span>** 
+He Hu          SZU
+
+Yihong Ji       SZU
+
+Zebang Cheng   SZU
+
+<!-- **Master Students：** -->
+### **<span style="font-size: 1.2em; color: #2E86C1;">Master Students：</span>** 
+Guojiang Li   SZU
+
+Hao Yu      SZU
 
 <span class='anchor' id='-ryjx'></span>
 # 🌐 Other Activities
