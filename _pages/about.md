@@ -47,7 +47,7 @@ redirect_from:
 
 * represents the first author, # represents the corresponding author
 
-### **<span style="font-size: 1.2em; color: #2E86C1;">Journal Papers</span>** 
+### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Journal Papers</span>** 
 1) <strong>F. Ma</strong>*, Y. Li, Y. Xie, Y. He, Y. Zhang, H. Ren, Z. Liu, W. Yao, F. Ren, F. Yu, S. Ni. A Review of Human Emotion Synthesis Based on Generative Technology. IEEE Transactions on Affective Computing, 2025. (IF: 9.6)
 
 2) H. Hou, <strong>F. Ma</strong>*, Z. Li, F. Yu. VisualRWKV-HM: Enhancing Linear Visual-Language Models via Hybrid Mixing. Information Fusion, 2025. (IF: 14.8)
