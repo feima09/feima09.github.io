@@ -176,6 +176,6 @@ Guojiang Li, SZU
 </div>
 
 <!-- Footer Credits -->
-<div style="text-align:center; font-size:small; margin-top:30px;">
+<!-- <div style="text-align:center; font-size:small; margin-top:30px;">
 <p>Design and source code from <a href="https://github.com/Calylyli">Minghui Li's</a> and <a href="https://github.com/feima09">Fei Ma's</a> websites</p>
-</div>
+</div> -->
