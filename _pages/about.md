@@ -21,7 +21,7 @@ redirect_from:
 
 &emsp;&emsp;He received the B.S. degree from the University of Electronic Science and Technology of China (UESTC) in 2017, ranking first among 363 students in his major. He earned his Ph.D. degree from Tsinghua University in 2022 under the supervision of Prof. Lin Zhang. He maintains close collaborations with renowned scholars including Prof. [Fei Richard Yu](https://scholar.google.ca/citations?user=zuGMGBoAAAAJ&hl=en) (Member of the Academia Europaea, Fellow of the Canadian Academy of Engineering (CAE), Engineering Institute of Canada (EIC), IEEE, and IET) and Prof. [Fuji Ren](https://scholar.google.com/citations?user=eyLJ0fMAAAAJ&hl=zh-CN) (Academician of The Engineering Academy of Japan and EU Academy of Sciences, fellow of The Japan Federation of Engineering Societies, IEICE, and CAAI).
 
-&emsp;&emsp;Currently, he is actively looking for interns and visiting students (online or offline) who are passionate about the above research areas. Interested candidates are welcome to contact via email.
+<span style="color:red">&emsp;&emsp;Currently, he is actively looking for interns and visiting students (online or offline) who are passionate about the above research areas. Interested candidates are welcome to contact via email.<span>
 
 <span class='anchor' id='-xl'></span>
 # 📣 Recent News
@@ -45,7 +45,7 @@ redirect_from:
 
 # 📝 Publications
 
-* represents the first author, # represents the corresponding author.
+*  \* represents the first author, # represents the corresponding author.
 
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Journal Papers</span>** 
@@ -136,6 +136,8 @@ Minghui Li
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Interns/Visiting Students：</span>** 
 Yifan Xie, PhD Student of THU
 
+Hongwei Ren, PhD Student of HKUST(GZ)
+
 Haiwei Xue, Master Student of THU
 
 Yu Wang, Master Student of SYSU
@@ -167,3 +169,13 @@ Guojiang Li, SZU
 &emsp;&emsp;Machine Learning, Spring 2025, SZU
 
 &emsp;&emsp;Social Psychology and Behavioral Big Data, Spring 2023, BNU Zhuhai
+
+<!-- 通过自定义尺寸控制（宽度300px） -->
+<div style="text-align:center; margin:20px 0; width:300px; margin-left:auto; margin-right:auto;">
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=aHCMdlI2tDN-xAebM-gf37yJNxg9UMxmIFPrWPcuqsM'></script>
+</div>
+
+<!-- Footer Credits -->
+<div style="text-align:center; font-size:small; margin-top:30px;">
+<p>Design and source code from <a href="https://github.com/Calylyli">Minghui Li's</a> and <a href="https://github.com/feima09">Fei Ma's</a> websites</p>
+</div>
