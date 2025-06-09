@@ -25,11 +25,11 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # 📣 Recent News
-[May. 2025] One paper is accepted by IEEE Transactions on Affective Computing. Congratulations to Yifan and Yukan！
+[May 2025] One paper is accepted by IEEE Transactions on Affective Computing. Congratulations to Yifan and Yukan！
 
-[May. 2025] One paper is accepted by ACL 2025. Congratulations to Congzhi！
+[May 2025] One paper is accepted by ACL 2025. Congratulations to Congzhi！
 
-[May. 2025] One paper is accepted by Information Fusion. 
+[May 2025] One paper is accepted by Information Fusion. 
 
 [Apr. 2025] Three papers are accepted by IJCAI 2025. Congratulations to Haiwei and Chenyang!
 
@@ -86,7 +86,7 @@ redirect_from:
 
 10) L. Xiong, X. Cheng, J. Tan, X. Wu, X. Li, L. Zhu, <strong>F. Ma</strong>, M. Li, H. Xu, Z. Hu. SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing. ACM MM 2024. (CCF A)
 
-### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Chinese Patents Selected Chinese Patents (41 in total by May. 2025)</span>** 
+### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Chinese Patents (41 in total by May 2025)</span>** 
 1) <strong>马飞</strong>*，徐洪波，谢长岭，卓一瑶，罗奕明，李阳，纪奕泓。一种基于多模态大模型的跌倒检测方法、系统、终端及存储介质。202510512556.7
 
 2) <strong>马飞</strong>*，卓一瑶，施斯，董淳光。一种个性化数字人预问诊平台。202411030663.8 
