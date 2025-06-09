@@ -27,7 +27,7 @@ redirect_from:
 # 📣 Recent News
 [May 2025] One paper is accepted by IEEE Transactions on Affective Computing. Congratulations to Yifan and Yukan！
 
-[May 2025] One paper is accepted by ACL 2025. Congratulations to Congzhi！
+[May 2025] One paper is accepted by ACL 2025. Congratulations to Congzhi!
 
 [May 2025] One paper is accepted by Information Fusion. 
 
