@@ -262,6 +262,8 @@ redirect_from:
 
 &emsp;&emsp;ACM MM 2026 Grand Challenge（[NeuroMM 2026](https://2026.neuromm.org/)）
 
+&emsp;&emsp;ACM MM 2026 Grand Challenge（[MER 2026](https://zeroqiaoba.github.io/MER-Challenge/)）
+
 &emsp;&emsp;VALSE 2026 特色角（不止Paper，"攒局"指南）
 
 
