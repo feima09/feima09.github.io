@@ -49,40 +49,19 @@ redirect_from:
 
 - [Jan. 2026] Three papers are accepted by ICLR.
 
-- [Nov. 2025] Our GMTalker project won the Outstanding Scientific Research Achievement Innovation Award at the 27th China Hi-Tech Fair.
+- [Nov. 2025] Our GMTalker project wins the Outstanding Scientific Research Achievement Innovation Award at the 27th China Hi-Tech Fair.
 
 - [Nov. 2025] Two papers are accepted by AAAI.
-
-<!-- [Oct. 2025] GMTalker: A full-stack 3D interactive digital human solution officially released by Guangming Laboratory, with over 1000 GitHub stars! -->
 
 - [Sep. 2025] Two papers are accepted by NeurIPS.
 
 - [Jul. 2025] One paper is accepted by TPAMI.
 
-<!-- [Jul. 2025] One paper is accepted by ECAI. -->
-
 - [Jul. 2025] Two papers are accepted by ACM MM. 
 
-<!-- Congratulations to Yihong, one of my first PhD students! --> 
-
-<!-- [Jul. 2025] One paper is accepted by ICML 2025 R2-FM Workshop. -->
-
-<!-- [Jun. 2025] Two papers are accepted by IROS. Congratulations to Yifan and Zixuan! -->
-
-<!-- [May. 2025] One paper is accepted by IEEE Transactions on Affective Computing. Congratulations to Yifan and Yukan! -->
-
 - [May 2025] One paper is accepted by ACL. 
-<!-- Congratulations to Congzhi! -->
-
-<!-- [May. 2025] One paper is accepted by Information Fusion.  -->
 
 - [Apr. 2025] Three papers are accepted by IJCAI. 
-
-<!-- [Apr. 2025] One paper is accepted by ICMR 2025. Congratulations to Yifan! -->
-
-<!-- - [Apr. 2025] One paper is accepted by Information Fusion.  -->
-
-<!-- [Mar. 2025] Three papers are accepted by ICME 2025. Congratulations to Tao Feng, Xin Zhang, and Yang Xiang! -->
 
 - [Mar. 2025] One paper is accepted by TPAMI. Congratulations to Hongwei!
 
