@@ -96,7 +96,9 @@ redirect_from:
 
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
-### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>** 
+### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
+
+- [14] S Ye, M Li, X Lin, J Zhang, W Xie, D Guo, <strong>F Ma</strong>, S Xia, Z Yu. <strong>CiMEU: Culture-Independent Multimodal Emotion Recognition via Disentangled Representation Learning</strong>. IEEE Transactions on Affective Computing, 2026. 
 
 - [13] S Yang, W Yu, S Chen, <strong>F Ma</strong>, Z Liu, Q Li. <strong>A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot</strong>. IEEE Transactions on Intelligent Transportation Systems, 2026. 
 
@@ -128,6 +130,14 @@ redirect_from:
 
 
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Conference Papers</span>** 
+
+- [34] G Li, <strong>F Ma</strong>, H Xu, Q Tian. <strong>MEIR: Memory-Enhanced Incongruity-Aware Reasoning for Multimodal Sarcasm Detection and Explanation</strong>. ACM MM 2026. 
+
+- [33] J Chen, J Kong, M Chen, B Zhang, S Zhang, H Zhao, R Huang, <strong>F Ma</strong>, Q Tian. <strong>UniGarment: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization</strong>. ACM MM 2026. 
+
+- [32] Z Wang, Z Yu, Y Zhu, B Zhao, H Liang, T Wang, W Xia, J Zhang, Z Liu, H Ma, <strong>F Ma</strong>, Q Tian. <strong>AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition</strong>. ACM MM 2026. 
+
+- [31] H Hu, L You, H Xu, Q Wang, F Yu, <strong>F Ma</strong>, Z Cheng, Z Lian, Y Zhou, L Cui. <strong>EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models</strong>. ACM MM 2026. 
 
 - [30] S Chen, Y Chen, Y Guan, Z Cheng, Z Zhang, S Qin, B Xia, J Li, W Yang, <strong>F Ma</strong>. <strong>Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding</strong>. ECCV 2026. 
 
