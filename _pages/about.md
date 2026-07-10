@@ -37,6 +37,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 # Recent News
 
+- [Jul. 2026] Four papers are accepted by ACM MM.
+
 - [Jun. 2026] Three papers are accepted by ECCV.
 
 - [Apr. 2026] Two papers are accepted by ICML.
@@ -46,10 +48,6 @@ redirect_from:
 - [Feb. 2026] Three papers are accepted by CVPR.
 
 - [Jan. 2026] Three papers are accepted by ICLR.
-
-<!-- [Jan. 2026] One paper is accepted by WWW. -->
-
-<!-- [Dec. 2025] One patent is authorized. -->
 
 - [Nov. 2025] Our GMTalker project won the Outstanding Scientific Research Achievement Innovation Award at the 27th China Hi-Tech Fair.
 
