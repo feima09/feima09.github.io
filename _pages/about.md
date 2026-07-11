@@ -100,27 +100,27 @@ redirect_from:
 - [3] H Ren, Y Zhou, J Zhu, X Lin, H Fu, Y Huang, Y Fang, <strong>F Ma</strong>, H Yu, B Cheng. <strong>Rethinking Efficient and Effective point-based Networks for Event Camera Classification and Regression</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
 
 - [2] <strong>F Ma</strong>, Y Yuan, Y Xie, H Ren, I Liu, Y He, F Ren, F Yu, S Ni. <strong>Generative Technology for Human Emotion Recognition: A Scoping Review</strong>. Information Fusion, 2024. 
-<!-- [2] C. Wang, H. Yu, X. Li, <strong>F. Ma</strong>, X. Wang, T. Taleb, V. Leung. Dependency-Aware Microservice Deployment for Edge Computing: A Deep Reinforcement Learning Approach with Network Representation. IEEE Transactions on Mobile Computing, 2024. (IF: 7.7) -->
-<!-- [1] Y. Liu, H. Hou, <strong>F. Ma #</strong>, S. Ni, F. Yu. MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding. IEEE Signal Processing Letters, 2024. (IF: 3.2) -->
 
 - [1] C Wang, H Yu, X Li, <strong>F Ma</strong>, X Wang, T Taleb, VCM Leung. <strong>Dependency-Aware Microservice Deployment for Edge Computing: A Deep Reinforcement Learning Approach with Network Representation</strong>. IEEE Transactions on Mobile Computing, 2024.
 
 
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Conference Papers</span>** 
 
-- [34] G Li, <strong>F Ma</strong>, H Xu, Q Tian. <strong>MEIR: Memory-Enhanced Incongruity-Aware Reasoning for Multimodal Sarcasm Detection and Explanation</strong>. ACM MM 2026. 
+- [35] G Li, <strong>F Ma</strong>, H Xu, Q Tian. <strong>MEIR: Memory-Enhanced Incongruity-Aware Reasoning for Multimodal Sarcasm Detection and Explanation</strong>. ACM MM 2026. 
 
-- [33] J Chen, J Kong, M Chen, B Zhang, S Zhang, H Zhao, R Huang, <strong>F Ma</strong>, Q Tian. <strong>UniGarment: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization</strong>. ACM MM 2026. 
+- [34] J Chen, J Kong, M Chen, B Zhang, S Zhang, H Zhao, R Huang, <strong>F Ma</strong>, Q Tian. <strong>UniGarment: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization</strong>. ACM MM 2026. 
 
-- [32] Z Wang, Z Yu, Y Zhu, B Zhao, H Liang, T Wang, W Xia, J Zhang, Z Liu, H Ma, <strong>F Ma</strong>, Q Tian. <strong>AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition</strong>. ACM MM 2026. 
+- [33] Z Wang, Z Yu, Y Zhu, B Zhao, H Liang, T Wang, W Xia, J Zhang, Z Liu, H Ma, <strong>F Ma</strong>, Q Tian. <strong>AffectAgent: Collaborative Multi-Agent Reasoning for Retrieval-Augmented Multimodal Emotion Recognition</strong>. ACM MM 2026. 
 
-- [31] H Hu, L You, H Xu, Q Wang, F Yu, <strong>F Ma</strong>, Z Cheng, Z Lian, Y Zhou, L Cui. <strong>EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models</strong>. ACM MM 2026. 
+- [32] H Hu, L You, H Xu, Q Wang, F Yu, <strong>F Ma</strong>, Z Cheng, Z Lian, Y Zhou, L Cui. <strong>EmoBench-M: Benchmarking Emotional Intelligence for Multimodal Large Language Models</strong>. ACM MM 2026. 
+
+- [31] S Liu, W Yu, B Zhang, S Chen, <strong>F Ma</strong>, Z Liu, Q Li. <strong>Disturbance-Aware Dynamical Trajectory Planning for Air-Land Bimodal Vehicles</strong>. IROS 2026. 
 
 - [30] S Chen, Y Chen, Y Guan, Z Cheng, Z Zhang, S Qin, B Xia, J Li, W Yang, <strong>F Ma</strong>. <strong>Reflect-R1: Evidence-Driven Reflection for Self-Correction in Long Video Understanding</strong>. ECCV 2026. 
 
 - [29] C Guo, X Mo, Y Nie, <strong>F Ma</strong>, X Xu, C Long. <strong>TAR: Temporal Anchor-Constrained Reasoning for Video Temporal Grounding</strong>. ECCV 2026. 
 
-- [28] Z Peng, E Yang, Y Cheng, H Yuan, <strong>F Ma</strong>, X Cao, L Shen. <strong>MoMCE: Mixture of Modality and Cue Experts for Multimodal Deception Detection</strong>. ECCV 2026. 
+- [28] D Zhu, R Hu, Z Yu, X Guo, M Wang, S Ye, <strong>F Ma</strong>, X Cao. <strong>MoMCE: Mixture of Modality and Cue Experts for Multimodal Deception Detection</strong>. ECCV 2026. 
 
 - [27] D Zhu, R Hu, Z Yu, X Guo, M Wang, S Ye, <strong>F Ma</strong>, X Cao, L Shen. <strong>SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection</strong>. ICML 2026. 
 
@@ -175,8 +175,6 @@ redirect_from:
 - [2] L Xiong, X Cheng, J Tan, X Wu, X Li, L Zhu, <strong>F Ma</strong>, M Li, H Xu, Z Hu. <strong>SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing</strong>. ACM MM 2024. 
 
 - [1] X Luo, X Zhang, Y Xie, X Tong, W Yu, H Chang, <strong>F Ma</strong>, F Yu. <strong>CodeSwap: Symmetrically Face Swapping Based on Prior Codebook</strong>. ACM MM 2024.
-
-
 
 <!-- ### **<span style="font-size: 1.2em; color: #2E86C1;">Selected Chinese Patents</span>** 
 1) <strong>马飞</strong>*，徐洪波，谢长岭，卓一瑶，罗奕明，李阳，纪奕泓。一种基于多模态大模型的跌倒检测方法、系统、终端及存储介质。202510512556.7
