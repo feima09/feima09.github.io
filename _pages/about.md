@@ -122,7 +122,7 @@ redirect_from:
 
 - [28] D Zhu, R Hu, Z Yu, X Guo, M Wang, S Ye, <strong>F Ma</strong>, X Cao. <strong>MoMCE: Mixture of Modality and Cue Experts for Multimodal Deception Detection</strong>. ECCV 2026. 
 
-- [27] D Zhu, R Hu, Z Yu, X Guo, M Wang, S Ye, <strong>F Ma</strong>, X Cao, L Shen. <strong>SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection</strong>. ICML 2026. 
+- [27] Z Peng, E Yang, Y Cheng, H Yuan, <strong>F Ma</strong>, X Cao, L Shen. <strong>SCNS: Continual Personalization of Diffusion Models via Submodular Concept Neuron Selection</strong>. ICML 2026. 
 
 - [26] H Ren, <strong>F Ma</strong>, X Lin, Y Fang, H Huang, Y Zhou, Y Huang, H Fu, Z Yang, Y Jiang, X Wu, B Cheng. <strong>Scalable Event Cloud Network for Event-based Classification</strong>. ICML 2026. 
 
