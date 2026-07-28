@@ -36,6 +36,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # Recent News
+- [Jul. 2026] Four papers are accepted by ACM MM.
 
 - [Jul. 2026] Four papers are accepted by ACM MM.
 
@@ -44,6 +45,8 @@ redirect_from:
 - [Apr. 2026] Two papers are accepted by ICML.
 
 - [Apr. 2026] Two papers are accepted by IJCAI.
+
+- [Mar. 2026] We organize the [1st Workshop & Challenge on Neurophysiological Intelligence for Human-Aware Multimedia (NeuroMM)](https://2026.neuromm.org/) @ ACM MM 2026. Welcome to participate!
 
 - [Feb. 2026] Three papers are accepted by CVPR.
 
@@ -211,12 +214,22 @@ redirect_from:
 
 <span class='anchor' id='-hy'></span>
 # Honors & Awards
-- 2025年 光明实验室优秀团队
+<!-- - 2025年 光明实验室优秀团队
 - 2025年 光明实验室优秀个人
 - 2025年 中国国际高新技术成果交易会优秀科研成果创新奖
 - 2024年 中国创新创业大赛创新挑战赛（宁波）解决方案优胜奖（赛道第一名）
 - 2024年 全国昇腾AI原生创新算子挑战赛（S2赛季）优秀奖（指导教师：马飞）
-- 2024年 深圳广告创意制作大赛AI创意生成类优秀奖
+- 2024年 深圳广告创意制作大赛AI创意生成类优秀奖 -->
+- [2026/07] 1st Place in the Egocentric Language-Vision Interactive Network Knowledge Challenge @ ACM MM 2026
+- [2026/07] 2nd Place in the Challenge of Fine-Grained Emotion Understanding and Generation in Artistic Images @ ACM MM 2026
+- [2026/07] 3rd Place in the Challenge of Multimodal Personality-Aware Depression Detection via Audio-Visual Interview and Gait Analysis @ ACM MM 2026
+- [2026/02] 光明实验室优秀团队
+- [2026/02] 光明实验室优秀个人
+- [2025/11] 中国国际高新技术成果交易会优秀科研成果创新奖
+- [2024/12] 中国创新创业大赛创新挑战赛（宁波）解决方案优胜奖（赛道第一名）
+- [2024/12] 深圳广告创意制作大赛AI创意生成类优秀奖
+- [2024/9] 全国昇腾AI原生创新算子挑战赛（S2赛季）优秀奖（指导教师：马飞）
+
 
 <span class='anchor' id='-membership'></span>
 # Membership
