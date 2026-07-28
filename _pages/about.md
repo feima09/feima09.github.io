@@ -36,7 +36,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # Recent News
-- [2026/07] We took 1st, 2nd, and 3rd place across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
+- [2026/07] We take 1st, 2nd, and 3rd place across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
 
 - [2026/07] Four papers are accepted by ACM MM.
 
