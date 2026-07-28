@@ -36,37 +36,37 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # Recent News
-- [Jul. 2026] We took 1st, 2nd, and 3rd place across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
+- [2026/07] We took 1st, 2nd, and 3rd place across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
 
-- [Jul. 2026] Four papers are accepted by ACM MM.
+- [2026/07] Four papers are accepted by ACM MM.
 
-- [Jun. 2026] Three papers are accepted by ECCV.
+- [2026/06] Three papers are accepted by ECCV.
 
-- [Apr. 2026] Two papers are accepted by ICML.
+- [2026/04] Two papers are accepted by ICML.
 
-- [Apr. 2026] Two papers are accepted by IJCAI.
+- [2026/04] Two papers are accepted by IJCAI.
 
-- [Mar. 2026] We organize the [1st Workshop & Challenge on Neurophysiological Intelligence for Human-Aware Multimedia (NeuroMM)](https://2026.neuromm.org/) @ ACM MM 2026. Welcome to participate!
+- [2026/03] We organize the [1st Workshop & Challenge on Neurophysiological Intelligence for Human-Aware Multimedia (NeuroMM)](https://2026.neuromm.org/) @ ACM MM 2026. Welcome to participate!
 
-- [Feb. 2026] Three papers are accepted by CVPR.
+- [2026/02] Three papers are accepted by CVPR.
 
-- [Jan. 2026] Three papers are accepted by ICLR.
+- [2026/01] Three papers are accepted by ICLR.
 
-- [Nov. 2025] Our GMTalker project wins the Outstanding Scientific Research Achievement Innovation Award at the 27th China Hi-Tech Fair.
+- [2025/11] Our GMTalker project wins the Outstanding Scientific Research Achievement Innovation Award at the 27th China Hi-Tech Fair.
 
-- [Nov. 2025] Two papers are accepted by AAAI.
+- [2025/11] Two papers are accepted by AAAI.
 
-- [Sep. 2025] Two papers are accepted by NeurIPS.
+- [2025/09] Two papers are accepted by NeurIPS.
 
-- [Jul. 2025] One paper is accepted by TPAMI.
+- [2025/07] One paper is accepted by TPAMI.
 
-- [Jul. 2025] Two papers are accepted by ACM MM. 
+- [2025/07] Two papers are accepted by ACM MM. 
 
-- [May 2025] One paper is accepted by ACL. 
+- [2025/05] One paper is accepted by ACL. 
 
-- [Apr. 2025] Three papers are accepted by IJCAI. 
+- [2025/04] Three papers are accepted by IJCAI. 
 
-- [Mar. 2025] One paper is accepted by TPAMI. Congratulations to Hongwei!
+- [2025/03] One paper is accepted by TPAMI. Congratulations to Hongwei!
 
 <span class='anchor' id='-pub'></span>
 
