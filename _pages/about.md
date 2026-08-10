@@ -303,6 +303,8 @@ redirect_from:
 
 &emsp;&emsp;Behaviour & Information Technology
 
+&emsp;&emsp;International Journal of Human-Computer Interaction
+
 &emsp;&emsp;Mobile Networks and Applications
 
 &emsp;&emsp;电子学报
