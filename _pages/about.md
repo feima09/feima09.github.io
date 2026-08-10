@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-&emsp;&emsp;Fei Ma is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>human-centered multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
+&emsp;&emsp;Fei Ma is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
 
 &emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 40 papers in top-tier journals such as TPAMI, TMC, and TMLR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has also filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
 
@@ -77,6 +77,10 @@ redirect_from:
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
+
+- [16] Y Wang, Y Zhu, Z Song, H Ma, Z Wang, Z Yu, <strong>F Ma</strong>, Q Tian. <strong>Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation</strong>. IEEE Transactions on Affective Computing, 2026. 
+
+- [15] J Ke, <strong>F Ma</strong>, Y Lin, X Wang, W Yang, K Liu, Z Yu, S Zhao, G Ding, Q Tian. <strong>RALoRA: Rank-Adaptive LoRA for Incomplete Multi-View Classification with Vision-Language Foundation Models</strong>. Information Fusion, 2026. 
 
 - [14] S Ye, M Li, X Lin, J Zhang, W Xie, D Guo, <strong>F Ma</strong>, S Xia, Z Yu. <strong>CiMEU: Culture-Independent Multimodal Emotion Recognition via Disentangled Representation Learning</strong>. IEEE Transactions on Affective Computing, 2026. 
 
@@ -242,6 +246,7 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 # Invited Talks
+- [2026/08/11] "迈向以人为中心的世界模型：初步探索" —— 鹏城实验室，深圳
 - [2025/12/28] "基于大模型与AIGC的情感智能：从感知理解到具身共情" —— AIGC 2025（第三届人工智能生成内容国际会议暨大模型应用创新大会），杭州
 - [2025/12/17] "生成式情感智能：从数字大脑到具身实体的跨越" —— 清华大学深圳国际研究生院，深圳
 - [2025/10/28] "基于多模态大模型的媒体内容理解与生成" —— 中山市青联大讲堂，电子科技大学中山学院，中山
@@ -272,6 +277,8 @@ redirect_from:
 
 &emsp;&emsp;IEEE Transactions on Multimedia
 
+&emsp;&emsp;IEEE Transactions on Circuits and Systems for Video Technology
+
 &emsp;&emsp;IEEE Transactions on Affective Computing
 
 &emsp;&emsp;IEEE Internet of Things Journal
@@ -295,6 +302,8 @@ redirect_from:
 &emsp;&emsp;Software: Practice and Experience
 
 &emsp;&emsp;Behaviour & Information Technology
+
+&emsp;&emsp;Mobile Networks and Applications
 
 &emsp;&emsp;电子学报
 
