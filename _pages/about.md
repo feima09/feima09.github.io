@@ -285,15 +285,15 @@ redirect_from:
 
 &emsp;&emsp;Pattern Recognition
 
+&emsp;&emsp;Neurocomputing
+
+&emsp;&emsp;International Journal of Human-Computer Interaction
+
 &emsp;&emsp;IEEE Robotics and Automation Letters
 
 &emsp;&emsp;IEEE Signal Processing Letters
 
-&emsp;&emsp;Neurocomputing
-
 &emsp;&emsp;IEEE Transactions on Human-Machine Systems
-
-&emsp;&emsp;International Journal of Human-Computer Interaction
 
 &emsp;&emsp;Signal Processing: Image Communication
 
