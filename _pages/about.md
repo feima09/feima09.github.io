@@ -283,19 +283,17 @@ redirect_from:
 
 &emsp;&emsp;IEEE Internet of Things Journal
 
-&emsp;&emsp;IEEE Transactions on Human-Machine Systems
+&emsp;&emsp;Pattern Recognition
 
 &emsp;&emsp;IEEE Robotics and Automation Letters
 
 &emsp;&emsp;IEEE Signal Processing Letters
 
-&emsp;&emsp;Pattern Recognition
-
 &emsp;&emsp;Neurocomputing
 
-&emsp;&emsp;Computers in Industry
+&emsp;&emsp;IEEE Transactions on Human-Machine Systems
 
-&emsp;&emsp;Ocean Engineering
+&emsp;&emsp;International Journal of Human-Computer Interaction
 
 &emsp;&emsp;Signal Processing: Image Communication
 
@@ -303,9 +301,11 @@ redirect_from:
 
 &emsp;&emsp;Behaviour & Information Technology
 
-&emsp;&emsp;International Journal of Human-Computer Interaction
-
 &emsp;&emsp;Mobile Networks and Applications
+
+&emsp;&emsp;Computers in Industry
+
+&emsp;&emsp;Ocean Engineering
 
 &emsp;&emsp;电子学报
 
