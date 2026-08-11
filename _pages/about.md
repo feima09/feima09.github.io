@@ -106,7 +106,7 @@ redirect_from:
 
 - [4] H Ren, Y Zhou, J Zhu, X Lin, H Fu, Y Huang, Y Fang, <strong>F Ma</strong>, H Yu, B Cheng. <strong>Rethinking Efficient and Effective point-based Networks for Event Camera Classification and Regression</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
 
-- [3] Y Liu, H Hou, <strong>F Ma</strong>, S Ni, F Yu. MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding. IEEE Signal Processing Letters, 2025. 
+- [3] Y Liu, H Hou, <strong>F Ma</strong>, S Ni, F Yu. <strong>MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding</strong>. IEEE Signal Processing Letters, 2025. 
 
 - [2] <strong>F Ma</strong>, Y Yuan, Y Xie, H Ren, I Liu, Y He, F Ren, F Yu, S Ni. <strong>Generative Technology for Human Emotion Recognition: A Scoping Review</strong>. Information Fusion, 2024. 
 
