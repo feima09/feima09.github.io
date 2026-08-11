@@ -78,33 +78,35 @@ redirect_from:
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
 
-- [16] Y Wang, Y Zhu, Z Song, H Ma, Z Wang, Z Yu, <strong>F Ma</strong>, Q Tian. <strong>Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation</strong>. IEEE Transactions on Affective Computing, 2026. 
+- [17] Y Wang, Y Zhu, Z Song, H Ma, Z Wang, Z Yu, <strong>F Ma</strong>, Q Tian. <strong>Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation</strong>. IEEE Transactions on Affective Computing, 2026. 
 
-- [15] J Ke, <strong>F Ma</strong>, Y Lin, X Wang, W Yang, K Liu, Z Yu, S Zhao, G Ding, Q Tian. <strong>RALoRA: Rank-Adaptive LoRA for Incomplete Multi-View Classification with Vision-Language Foundation Models</strong>. Information Fusion, 2026. 
+- [16] J Ke, <strong>F Ma</strong>, Y Lin, X Wang, W Yang, K Liu, Z Yu, S Zhao, G Ding, Q Tian. <strong>RALoRA: Rank-Adaptive LoRA for Incomplete Multi-View Classification with Vision-Language Foundation Models</strong>. Information Fusion, 2026. 
 
-- [14] S Ye, M Li, X Lin, J Zhang, W Xie, D Guo, <strong>F Ma</strong>, S Xia, Z Yu. <strong>CiMEU: Culture-Independent Multimodal Emotion Recognition via Disentangled Representation Learning</strong>. IEEE Transactions on Affective Computing, 2026. 
+- [15] S Ye, M Li, X Lin, J Zhang, W Xie, D Guo, <strong>F Ma</strong>, S Xia, Z Yu. <strong>CiMEU: Culture-Independent Multimodal Emotion Recognition via Disentangled Representation Learning</strong>. IEEE Transactions on Affective Computing, 2026. 
 
-- [13] S Yang, W Yu, S Chen, <strong>F Ma</strong>, Z Liu, Q Li. <strong>A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot</strong>. IEEE Transactions on Intelligent Transportation Systems, 2026. 
+- [14] S Yang, W Yu, S Chen, <strong>F Ma</strong>, Z Liu, Q Li. <strong>A Terrain-Interactive Autonomous Switching Control Strategy for the Land-Air Bimodal Robot</strong>. IEEE Transactions on Intelligent Transportation Systems, 2026. 
 
-- [12] Y Wang, H Yu, J Xu, <strong>F Ma</strong>, H Zhang, T Feng, Z Zhang, S Huang, D Sun, X Zhang. <strong>VFEM: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion</strong>. Transactions on Machine Learning Research, 2026. 
+- [13] Y Wang, H Yu, J Xu, <strong>F Ma</strong>, H Zhang, T Feng, Z Zhang, S Huang, D Sun, X Zhang. <strong>VFEM: Visual Feature Empowered Multivariate Time Series Forecasting with Cross-Modal Fusion</strong>. Transactions on Machine Learning Research, 2026. 
 
-- [11] H Hu, Y Zhou, Q Wang, Y Zou, C Ma, J Si, J Liu, Z Yu, L Cui, <strong>F Ma</strong>, Q Tian. <strong>From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health</strong>. IEEE Transactions on Affective Computing, 2026. 
+- [12] H Hu, Y Zhou, Q Wang, Y Zou, C Ma, J Si, J Liu, Z Yu, L Cui, <strong>F Ma</strong>, Q Tian. <strong>From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health</strong>. IEEE Transactions on Affective Computing, 2026. 
 
-- [10] Y He, G Chen, F Yu, M Li, <strong>F Ma</strong>, G Zhou. <strong>Restoring neural radiance fields performance under adverse weather conditions</strong>. Engineering Applications of Artificial Intelligence, 2026. 
+- [11] Y He, G Chen, F Yu, M Li, <strong>F Ma</strong>, G Zhou. <strong>Restoring neural radiance fields performance under adverse weather conditions</strong>. Engineering Applications of Artificial Intelligence, 2026. 
 
-- [9] D Luo, H Xu, <strong>F Ma</strong>, N Zhang, L Wang, K Wang. <strong>Design and analysis of step apodized coupling surface grating for narrow linewidth distributed feedback lasers with highly efficient optical field modulation</strong>. Journal of Optics, 2026. 
+- [10] D Luo, H Xu, <strong>F Ma</strong>, N Zhang, L Wang, K Wang. <strong>Design and analysis of step apodized coupling surface grating for narrow linewidth distributed feedback lasers with highly efficient optical field modulation</strong>. Journal of Optics, 2026. 
 
-- [8] R Shen, K Liu, B Zhang, W Yu, <strong>F Ma</strong>, Y Qu, Z Liu, Q Li. <strong>Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application</strong>. IEEE Transactions on Industrial Electronics, 2025. 
+- [9] R Shen, K Liu, B Zhang, W Yu, <strong>F Ma</strong>, Y Qu, Z Liu, Q Li. <strong>Trajectory Tracking Control of Fully Actuated Hexarotor UAVs With Adaptive Iterative Learning: From Theory to Application</strong>. IEEE Transactions on Industrial Electronics, 2025. 
 
-- [7] S Chen, Z Wu, K Zhang, C Li, B Zhang, <strong>F Ma</strong>, F Yu, Q Li. <strong>Exploring embodied multimodal large models: Development, datasets, and future directions</strong>. Information Fusion, 2025. 
+- [8] S Chen, Z Wu, K Zhang, C Li, B Zhang, <strong>F Ma</strong>, F Yu, Q Li. <strong>Exploring embodied multimodal large models: Development, datasets, and future directions</strong>. Information Fusion, 2025. 
 
-- [6] H Xue, X Luo, Z Hu, X Zhang, X Xiang, Y Dai, J Liu, Z Zhang, M Li, J Yang,  <strong>F Ma</strong>, Z Wu, C Yang, Z Dai, F Yu. <strong>Human Motion Video Generation: A Survey</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
+- [7] H Xue, X Luo, Z Hu, X Zhang, X Xiang, Y Dai, J Liu, Z Zhang, M Li, J Yang,  <strong>F Ma</strong>, Z Wu, C Yang, Z Dai, F Yu. <strong>Human Motion Video Generation: A Survey</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
 
-- [5] H Hou, <strong>F Ma</strong>, Z Li, F Yu. <strong>VisualRWKV-HM: Enhancing Linear Visual-Language Models via Hybrid Mixing</strong>. Information Fusion, 2025. 
+- [6] H Hou, <strong>F Ma</strong>, Z Li, F Yu. <strong>VisualRWKV-HM: Enhancing Linear Visual-Language Models via Hybrid Mixing</strong>. Information Fusion, 2025. 
 
-- [4] <strong>F Ma</strong>, Y Xie, Y Li, Y He, Y Zhang, H Ren, Z Liu, W Yao, F Ren, F Yu, S Ni. <strong>A Review of Human Emotion Synthesis Based on Generative Technology</strong>. IEEE Transactions on Affective Computing, 2025. 
+- [5] <strong>F Ma</strong>, Y Xie, Y Li, Y He, Y Zhang, H Ren, Z Liu, W Yao, F Ren, F Yu, S Ni. <strong>A Review of Human Emotion Synthesis Based on Generative Technology</strong>. IEEE Transactions on Affective Computing, 2025. 
 
-- [3] H Ren, Y Zhou, J Zhu, X Lin, H Fu, Y Huang, Y Fang, <strong>F Ma</strong>, H Yu, B Cheng. <strong>Rethinking Efficient and Effective point-based Networks for Event Camera Classification and Regression</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
+- [4] H Ren, Y Zhou, J Zhu, X Lin, H Fu, Y Huang, Y Fang, <strong>F Ma</strong>, H Yu, B Cheng. <strong>Rethinking Efficient and Effective point-based Networks for Event Camera Classification and Regression</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
+
+- [3] Y Liu, H Hou, <strong>F Ma</strong>, S Ni, F Yu. MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding. IEEE Signal Processing Letters, 2025. 
 
 - [2] <strong>F Ma</strong>, Y Yuan, Y Xie, H Ren, I Liu, Y He, F Ren, F Yu, S Ni. <strong>Generative Technology for Human Emotion Recognition: A Scoping Review</strong>. Information Fusion, 2024. 
 
