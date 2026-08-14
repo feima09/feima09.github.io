@@ -272,6 +272,11 @@ redirect_from:
 &emsp;&emsp;VALSE 2026 特色角（不止Paper，"攒局"指南）
 
 
+- **Guest Editor:**
+
+&emsp;&emsp;Special Issue "[Affective Computing Meets Embodied Intelligence: Emotion Perception, Reasoning, and Interaction in Embodied Agents](https://www.frontiersin.org/research-topics/84338/)" on Frontiers in Robotics and AI (IF=3.7)
+
+
 
 - **Journal Reviewer:**
 
