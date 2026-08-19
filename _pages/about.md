@@ -36,6 +36,10 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # Recent News
+- [2026/08] One paper is accepted by PR.
+
+- [2026/08] One paper is accepted by IEEE Transactions on Affective Computing.
+
 - [2026/07] We take 1st, 2nd, and 3rd place across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
 
 - [2026/07] Four papers are accepted by ACM MM.
@@ -77,6 +81,8 @@ redirect_from:
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
+
+- [18] J Chen, P Rong, X Li, J Sun, B Zhang, H Zhao, R Huang, <strong>F Ma</strong>, Q Tian. <strong>PRISM: Precise Region-Aware Instance Style Manipulation via Text-Guided Test-Time Optimization</strong>. Pattern Recognition, 2026. 
 
 - [17] Y Wang, Y Zhu, Z Song, H Ma, Z Wang, Z Yu, <strong>F Ma</strong>, Q Tian. <strong>Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation</strong>. IEEE Transactions on Affective Computing, 2026. 
 
