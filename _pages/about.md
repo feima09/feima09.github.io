@@ -223,6 +223,19 @@ redirect_from:
 15) 彭亮，<strong>马飞</strong>*，李明磊，怀宝兴。一种虚拟对象的动作图像数据生成方法、装置及相关设备。202310489294.8 -->
 
 
+<span class='anchor' id='-os'></span>
+
+# Open-source Project
+
+- [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+
+- [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+
+- [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+
+- [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+
+
 
 <span class='anchor' id='-hy'></span>
 # Honors & Awards

@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-pub"
 
-  # - title: "Team"
-  #   url: "/#-lwzl"
+  - title: "Open-source Project"
+    url: "/#-os"
 
   - title: "Honors & Awards"
     url: "/#-hy"
