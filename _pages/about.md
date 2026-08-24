@@ -225,7 +225,7 @@ redirect_from:
 
 <span class='anchor' id='-os'></span>
 
-# Open-source Project
+# Open-Source Project
 
 - [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: an agentic video platform automating dialogue, dual-host voices, lip sync, and editing, from idea to final cut.
 
