@@ -227,11 +227,11 @@ redirect_from:
 
 # Open-source Project
 
-- [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+- [4] [Blabber](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: an agentic video platform automating dialogue, dual-host voices, lip sync, and editing, from idea to final cut.
 
-- [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+- [3] [AdCraft](https://github.com/GML-MMGroup/AdCraft): One Sentence Becomes an AD Film: an agentic video platform automating the entire ad production workflow, from idea to final cut.
 
-- [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+- [2] [ClipTalk](https://github.com/GML-MMGroup/ClipTalk): One Sentence Becomes a Finished Cut: an agentic AI editor that turns natural-language instructions into complete video edits, from raw footage to final clips.
 
 - [1] [GMTalker](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
 
