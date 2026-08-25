@@ -227,13 +227,13 @@ redirect_from:
 
 # Open-Source Project
 
-- [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: an agentic video platform automating dialogue, dual-host voices, lip sync, and editing, from idea to final cut.
+- [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: an agentic video platform automating dialogue, dual-host voices, lip sync, and editing, from idea to final cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/Blabber?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/Blabber)
 
-- [3] [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft): One Sentence Becomes an AD Film: an agentic video platform automating the entire ad production workflow, from idea to final cut.
+- [3] [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft): One Sentence Becomes an AD Film: an agentic video platform automating the entire ad production workflow, from idea to final cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/AdCraft?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/AdCraft)
 
-- [2] [<strong>ClipTalk</strong>](https://github.com/GML-MMGroup/ClipTalk): One Sentence Becomes a Finished Cut: an agentic AI editor that turns natural-language instructions into complete video edits, from raw footage to final clips.
+- [2] [<strong>ClipTalk</strong>](https://github.com/GML-MMGroup/ClipTalk): One Sentence Becomes a Finished Cut: an agentic AI editor that turns natural-language instructions into complete video edits, from raw footage to final clips. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/ClipTalk?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/ClipTalk)
 
-- [1] [<strong>GMTalker</strong>](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human.
+- [1] [<strong>GMTalker</strong>](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/GMTalker?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/GMTalker)
 
 
 
