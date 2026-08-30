@@ -350,9 +350,7 @@ redirect_from:
 
 &emsp;&emsp;International Conference on Machine Learning（ICML） (2022)
 
-<!-- ICML 2022 -->
-
-&emsp;&emsp;International Conference on Learning Representations（ICLR）（2025，2024，2022）
+&emsp;&emsp;International Conference on Learning Representations（ICLR）（2027，2026，2025，2024，2022）
 
 &emsp;&emsp;Conference on Computer Vision and Pattern Recognition（CVPR） (2026，2025)
 
@@ -360,7 +358,7 @@ redirect_from:
 
 &emsp;&emsp;ACL Rolling Review (ARR) (2026)
 
-&emsp;&emsp;AAAI Conference on Artificial Intelligence（AAAI） (2026)
+&emsp;&emsp;AAAI Conference on Artificial Intelligence（AAAI） (2027, 2026)
 
 &emsp;&emsp;ACM International Conference on Multimedia（ACM MM） (2025，2024)
 
