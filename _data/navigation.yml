@@ -9,19 +9,19 @@ main:
   - title: "Publications"
     url: "/#-pub"
 
-  - title: "Open-Source Project"
-    url: "/#-os"
+  - title: "Open-Source Projects"
+    url: "/#-osp"
 
   - title: "Honors & Awards"
     url: "/#-hy"
 
-  - title: "Membership"
+  - title: "Memberships"
     url: "/#-membership"
 
   - title: "Invited Talks"
     url: "/#-ryjx"
 
-  - title: "Academic Services"
+  - title: "Services"
     url: "/#-review"
 
   - title: "Teaching"

@@ -19,10 +19,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-&emsp;&emsp;Fei Ma is a Research Scientist and Graduate Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, AIGC, world models, and affective computing.
+&emsp;&emsp;Fei Ma is a Research Scientist at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, world models, AIGC, and affective computing. Currently, the group brings together over 30 members, including PhD students, master's students, and engineers.
 
-&emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 50 papers in top-tier journals such as TPAMI, TMC, and TMLR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has also filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
+&emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 50 papers in top-tier journals such as TPAMI, TMC, and TMLR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ECCV, ACL, AAAI, and ACM MM. He has also filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
 
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Project collaborations and startup incubation opportunities are always welcome</strong>. If you are working on innovative applications of multimodal AI, Agents, world models, or AIGC, and are looking for a research partner to co-create real-world impact, please feel free to reach out by email. </span>
+
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期欢迎项目合作与创业孵化</strong>。 如果您正在探索多模态大模型、世界模型或 AIGC 的创新应用，希望寻求科研合作伙伴共同创造真实价值，欢迎随时邮件与我联系。</span>
 
 &emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Research interns are welcome to apply year-round</strong>. If you are passionate about AI and eager to engage in cutting-edge research, please feel free to contact me by email.</span>
 
@@ -36,6 +39,8 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # Recent News
+- [2026/08] Our [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft) project is released to generate ad films from one sentence.
+
 - [2026/08] One paper is accepted by PR.
 
 - [2026/08] One paper is accepted by IEEE Transactions on Affective Computing.
@@ -56,7 +61,7 @@ redirect_from:
 
 - [2026/01] Three papers are accepted by ICLR.
 
-- [2025/11] Our GMTalker project wins the Outstanding Scientific Research Achievement Innovation Award at the 27th China Hi-Tech Fair.
+- [2025/11] Our [<strong>GMTalker</strong>](https://github.com/GML-MMGroup/GMTalker) project wins the Outstanding Scientific Research Achievement Innovation Award at the 27th China Hi-Tech Fair.
 
 - [2025/11] Two papers are accepted by AAAI.
 
@@ -227,11 +232,11 @@ redirect_from:
 
 # Open-Source Project
 
-- [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: an agentic video platform automating dialogue, dual-host voices, lip sync, and editing, from idea to final cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/Blabber?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/Blabber)
+- [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: An Agentic Video Platform Automating Dialogue, Dual-host Voices, Lip Sync, and Editing, From Idea to Final Cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/Blabber?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/Blabber)
 
-- [3] [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft): One Sentence Becomes an AD Film: an agentic video platform automating the entire ad production workflow, from idea to final cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/AdCraft?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/AdCraft)
+- [3] [<strong>ClipTalk</strong>](https://github.com/GML-MMGroup/ClipTalk): One Sentence Becomes a Finished Cut: An Agentic AI Editor that Turns Natural-language Instructions Into Complete Video Edits, From Raw Footage to Final Clips. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/ClipTalk?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/ClipTalk)
 
-- [2] [<strong>ClipTalk</strong>](https://github.com/GML-MMGroup/ClipTalk): One Sentence Becomes a Finished Cut: an agentic AI editor that turns natural-language instructions into complete video edits, from raw footage to final clips. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/ClipTalk?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/ClipTalk)
+- [2] [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft): One Sentence Becomes an AD Film: An Agentic Video Platform Automating the Entire Ad Production Workflow, From Idea to Final Cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/AdCraft?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/AdCraft)
 
 - [1] [<strong>GMTalker</strong>](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/GMTalker?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/GMTalker)
 
@@ -311,6 +316,8 @@ redirect_from:
 &emsp;&emsp;IEEE Internet of Things Journal
 
 &emsp;&emsp;Pattern Recognition
+
+&emsp;&emsp;Expert Systems With Applications
 
 &emsp;&emsp;Neurocomputing
 
