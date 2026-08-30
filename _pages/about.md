@@ -230,7 +230,7 @@ redirect_from:
 
 <span class='anchor' id='-os'></span>
 
-# Open-Source Project
+# Open-Source Projects
 
 - [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: An Agentic Video Platform Automating Dialogue, Dual-host Voices, Lip Sync, and Editing, From Idea to Final Cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/Blabber?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/Blabber)
 
@@ -262,7 +262,7 @@ redirect_from:
 
 
 <span class='anchor' id='-membership'></span>
-# Membership
+# Memberships
 - 中国中文信息学会情感计算专委会委员
 - 大湾区昇腾算力应用创新研究院技术专家委员会委员
 - 广东省图象图形学会情感计算专委会副秘书长
@@ -282,8 +282,8 @@ redirect_from:
 
 
 
-<span class='anchor' id='-review'></span>
-# Academic Services
+<span class='anchor' id='-ser'></span>
+# Services
 
 
 - **Organizer/Chair:**
