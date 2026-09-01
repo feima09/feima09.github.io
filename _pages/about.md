@@ -236,11 +236,11 @@ redirect_from:
 
 # Open-Source Projects
 
-- [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber): One Prompt Becomes a Full Podcast Show: An Agentic Video Platform Automating Dialogue, Dual-host Voices, Lip Sync, and Editing, From Idea to Final Cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/Blabber?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/Blabber)
+- [4] [<strong>Blabber</strong>](https://github.com/GML-MMGroup/Blabber) (One Prompt Becomes a Full Podcast Show): An Agentic Video Platform Automating Dialogue, Dual-host Voices, Lip Sync, and Editing, From Idea to Final Cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/Blabber?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/Blabber)
 
-- [3] [<strong>ClipTalk</strong>](https://github.com/GML-MMGroup/ClipTalk): One Sentence Becomes a Finished Cut: An Agentic AI Editor that Turns Natural-language Instructions Into Complete Video Edits, From Raw Footage to Final Clips. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/ClipTalk?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/ClipTalk)
+- [3] [<strong>ClipTalk</strong>](https://github.com/GML-MMGroup/ClipTalk) (One Sentence Becomes a Finished Cut): An Agentic AI Editor that Turns Natural-language Instructions Into Complete Video Edits, From Raw Footage to Final Clips. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/ClipTalk?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/ClipTalk)
 
-- [2] [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft): One Sentence Becomes an AD Film: An Agentic Video Platform Automating the Entire Ad Production Workflow, From Idea to Final Cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/AdCraft?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/AdCraft)
+- [2] [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft) (One Sentence Becomes an AD Film): An Agentic Video Platform Automating the Entire Ad Production Workflow, From Idea to Final Cut. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/AdCraft?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/AdCraft)
 
 - [1] [<strong>GMTalker</strong>](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/GMTalker?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/GMTalker)
 
