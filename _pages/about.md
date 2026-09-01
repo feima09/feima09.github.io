@@ -23,17 +23,17 @@ redirect_from:
 
 &emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 50 papers in top-tier journals such as TPAMI, TMC, TMLR, and PR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has led more than 10 R&D projects and filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
 
-&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Project collaborations and startup incubation opportunities are always welcome</strong>. If you are working on innovative applications of multimodal AI, Agents, world models, or AIGC, and are looking for a research partner to co-create real-world impact, please feel free to reach out by email. </span>
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Project collaborations and startup incubation opportunities are always welcome</strong>. If you are working on innovative applications of multimodal AI, Agents, world models, or AIGC, and are looking for a research partner to co-create real-world impact, please feel free to reach out by email (mafei@gml.ac.cn). </span>
 
-&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Research interns are welcome to apply year-round</strong>. If you are passionate about AI and eager to engage in cutting-edge research, please feel free to contact me by email.</span>
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Research interns are welcome to apply year-round</strong>. If you are passionate about AI and eager to engage in cutting-edge research, please feel free to contact me by email  (mafei@gml.ac.cn).</span>
 
 &emsp;&emsp;马飞，人工智能与数字经济广东省实验室（深圳）（简称：光明实验室）研究员，并担任媒体智能团队负责人（学术带头人：[田奇](https://www.qitian1987.com/index.html)）。团队专注于<strong>多模态内容理解与生成</strong>，研究方向涵盖多模态大模型、智能体、世界模型、AIGC 以及情感计算。目前，团队汇聚了博士生、硕士生和工程师共计30余人。
 
 &emsp;&emsp;他于2022年获得清华大学信息与通信工程博士学位，并于2017年获得电子科技大学通信工程学士学位。他已在TPAMI、TMC、TMLR、PR等顶级期刊，以及ICML、NeurIPS、ICLR、CVPR、ACL、AAAI、ACM MM等CCF-A类会议上发表论文50余篇，主持项目10余项，并申请或授权中国发明专利40余项。加入光明实验室之前，他曾任职于华为。这份贯通学界与业界的双重积淀，驱动他致力于打通从科研突破到真实场景落地之间的"最后一公里"。
 
-&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期欢迎项目合作与创业孵化</strong>。 如果您正在探索多模态大模型、世界模型或AIGC的创新应用，希望寻求科研合作伙伴共同创造真实价值，欢迎随时邮件与我联系。</span>
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期欢迎项目合作与创业孵化</strong>。 如果您正在探索多模态大模型、世界模型或AIGC的创新应用，希望寻求科研合作伙伴共同创造真实价值，欢迎随时邮件（mafei@gml.ac.cn）与我联系。</span>
 
-&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期招募研究型实习生</strong>。 如果您对人工智能充满热情，并渴望投身前沿研究，欢迎随时邮箱与我联系。</span>
+&emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期招募研究型实习生</strong>。 如果您对人工智能充满热情，并渴望投身前沿研究，欢迎随时邮件（mafei@gml.ac.cn）与我联系。</span>
 
 <!-- Fei Ma is a Researcher, Principal Investigator, and Master's Supervisor at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), also known as Guangming Laboratory, where he leads the Media Intelligence team. He received his Ph.D. degree in Information and Communication Engineering from Tsinghua University and his B.S. degree in Communication Engineering from the University of Electronic Science and Technology of China (UESTC). His research lies at the intersection of <strong>generative artificial intelligence</strong> and <strong>affective computing</strong>. He has published over 40 papers in top journals such as TPAMI (IF: 18.6), Information Fusion (IF: 15.5), TAFFC (IF: 9.8), TMC (IF: 9.2), TIE (IF: 7.2), and CCF Tier-A conferences (NeurIPS, ICLR, ACL, AAAI, IJCAI, ACM MM). He has filed or been granted over 40 Chinese invention patents. He received the Outstanding Scientific Research Achievement Innovation Award at the China Hi-Tech Fair, and his self-developed AIGC short film "Chang'e Flying to the Moon" was featured on CCTV Video, CCTV.com, and CNR.com, gaining widespread attention. -->
 
