@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # Home
-&emsp;&emsp;Fei Ma is a Research Scientist at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, world models, AIGC, and affective computing. Currently, the group brings together over 30 members, including PhD students, master's students, and engineers.
+&emsp;&emsp;Fei Ma is a Research Scientist at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, video generation, world models, and affective computing. Currently, the group brings together over 30 members, including PhD students, master's students, and engineers.
 
 &emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 50 papers in top-tier journals such as TPAMI, TMC, TMLR, and PR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has led more than 10 R&D projects and filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
 
@@ -27,7 +27,7 @@ redirect_from:
 
 &emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Research interns are welcome to apply year-round</strong>. If you are passionate about AI and eager to engage in cutting-edge research, please feel free to contact me by email  (mafei@gml.ac.cn).</span>
 
-&emsp;&emsp;马飞，人工智能与数字经济广东省实验室（深圳）（简称：光明实验室）研究员，并担任媒体智能团队负责人（学术带头人：[田奇](https://www.qitian1987.com/index.html)）。团队专注于<strong>多模态内容理解与生成</strong>，研究方向涵盖多模态大模型、智能体、世界模型、AIGC 以及情感计算。目前，团队汇聚了博士生、硕士生和工程师共计30余人。
+&emsp;&emsp;马飞，人工智能与数字经济广东省实验室（深圳）（简称：光明实验室）研究员，并担任媒体智能团队负责人（学术带头人：[田奇](https://www.qitian1987.com/index.html)）。团队专注于<strong>多模态内容理解与生成</strong>，研究方向涵盖多模态大模型、智能体、视频生成、世界模型以及情感计算。目前，团队汇聚了博士生、硕士生和工程师共计30余人。
 
 &emsp;&emsp;他于2022年获得清华大学信息与通信工程博士学位，并于2017年获得电子科技大学通信工程学士学位。他已在TPAMI、TMC、TMLR、PR等顶级期刊，以及ICML、NeurIPS、ICLR、CVPR、ACL、AAAI、ACM MM等CCF-A类会议上发表论文50余篇，主持项目10余项，并申请或授权中国发明专利40余项。加入光明实验室之前，他曾任职于华为。这份贯通学界与业界的双重积淀，驱动他致力于打通从科研突破到真实场景落地之间的"最后一公里"。
 
@@ -320,6 +320,8 @@ redirect_from:
 &emsp;&emsp;IEEE Internet of Things Journal
 
 &emsp;&emsp;Pattern Recognition
+
+&emsp;&emsp;Knowledge-Based Systems
 
 &emsp;&emsp;Expert Systems With Applications
 
