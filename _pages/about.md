@@ -91,6 +91,8 @@ redirect_from:
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
 
+- [19] J Ke, S Zhao, X Xu, K Zhang, Y Xiong, G Zhang, <strong>F Ma</strong>, L He, H Chen,G Ding, X Gao. <strong>TCFMAD: Tri-Consistency Foundation Model-Based Few-Shot Manufacturing Anomaly Detection</strong>. IEEE Transactions on Automation Science and Engineering, 2026. 
+
 - [18] J Chen, P Rong, X Li, J Sun, B Zhang, H Zhao, R Huang, <strong>F Ma</strong>, Q Tian. <strong>PRISM: Precise Region-Aware Instance Style Manipulation via Text-Guided Test-Time Optimization</strong>. Pattern Recognition, 2026. 
 
 - [17] Y Wang, Y Zhu, Z Song, H Ma, Z Wang, Z Yu, <strong>F Ma</strong>, Q Tian. <strong>Uni-EmoAgent: A Unified Multi-Agent Framework for Affective Understanding and Art-Oriented Emotional Image Generation</strong>. IEEE Transactions on Affective Computing, 2026. 
@@ -304,7 +306,6 @@ redirect_from:
 - **Guest Editor:**
 
 &emsp;&emsp;Special Issue "[Affective Computing Meets Embodied Intelligence: Emotion Perception, Reasoning, and Interaction in Embodied Agents](https://www.frontiersin.org/research-topics/84338/)" on Frontiers in Robotics and AI (IF=3.7)
-
 
 
 - **Journal Reviewer:**
