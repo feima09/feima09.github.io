@@ -44,7 +44,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 # Recent News
 
-- [2026/09] We release [<strong>HUG-VIS</strong>](https://github.com/GML-MMGroup/HUG-VIS), a unified benchmark for Human-centered Understanding and Generation in VISual intelligence.
+- [2026/09] We release [<strong>HUG-VIS</strong>](https://huggingface.co/datasets/GML-MMGroup/HUG-VIS), a unified benchmark for Human-centered Understanding and Generation in VISual intelligence.
 
 - [2026/08] Our [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft) project is released to generate ad films from one sentence.
 
