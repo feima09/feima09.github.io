@@ -21,7 +21,7 @@ redirect_from:
 # Home
 &emsp;&emsp;Fei Ma is a Research Scientist at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, video generation, world models, and affective computing. Currently, the group brings together over 30 members, including engineers, PhD students, and master's students.
 
-&emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 50 papers in top-tier journals such as TPAMI, TMC, TMLR, and PR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has led more than 10 R&D projects and filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
+&emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022, and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 50 papers in top-tier journals such as TPAMI, TIP, TMC, TMLR, and PR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has led more than 10 R&D projects and filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
 
 &emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>Project collaborations and startup incubation opportunities are always welcome</strong>. If you are working on innovative applications of multimodal AI, Agents, world models, or AIGC, and are looking for a research partner to co-create real-world impact, please feel free to reach out by email (mafei@gml.ac.cn). </span>
 
@@ -29,7 +29,7 @@ redirect_from:
 
 &emsp;&emsp;马飞，人工智能与数字经济广东省实验室（深圳）（简称：光明实验室）研究员，并担任媒体智能团队负责人（学术带头人：[田奇](https://www.qitian1987.com/index.html)）。团队专注于<strong>多模态内容理解与生成</strong>，研究方向涵盖多模态大模型、智能体、视频生成、世界模型以及情感计算。目前，团队汇聚了工程师、博士生、和硕士生共计30余人。
 
-&emsp;&emsp;他于2022年获得清华大学信息与通信工程博士学位，并于2017年获得电子科技大学通信工程学士学位。他已在TPAMI、TMC、TMLR、PR等顶级期刊，以及ICML、NeurIPS、ICLR、CVPR、ACL、AAAI、ACM MM等CCF-A类会议上发表论文50余篇，主持项目10余项，并申请或授权中国发明专利40余项。加入光明实验室之前，他曾任职于华为。这份贯通学界与业界的双重积淀，驱动他致力于打通从科研突破到真实场景落地之间的"最后一公里"。
+&emsp;&emsp;他于2022年获得清华大学信息与通信工程博士学位，并于2017年获得电子科技大学通信工程学士学位。他已在TPAMI、TIP、TMC、TMLR、PR等顶级期刊，以及ICML、NeurIPS、ICLR、CVPR、ACL、AAAI、ACM MM等CCF-A类会议上发表论文50余篇，主持项目10余项，并申请或授权中国发明专利40余项。加入光明实验室之前，他曾任职于华为。这份贯通学界与业界的双重积淀，驱动他致力于打通从科研突破到真实场景落地之间的"最后一公里"。
 
 &emsp;&emsp;<span style="color: rgb(255, 0, 0);"><strong>长期欢迎项目合作与创业孵化</strong>。 如果您正在探索多模态大模型、世界模型或AIGC的创新应用，希望寻求科研合作伙伴共同创造真实价值，欢迎随时邮件（mafei@gml.ac.cn）与我联系。</span>
 
@@ -43,6 +43,8 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # Recent News
+- [2026/09] We release [HUG-VIS](https://github.com/GML-MMGroup/HUG-VIS), a unified benchmark for Human-centered Understanding and Generation in VISual intelligence.
+
 - [2026/08] Our [<strong>AdCraft</strong>](https://github.com/GML-MMGroup/AdCraft) project is released to generate ad films from one sentence.
 
 - [2026/08] One paper is accepted by PR.
@@ -90,6 +92,7 @@ redirect_from:
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
+- [20] X Xu, J Wu, W Liu, <strong>F Ma</strong>, K Jiang, Q Tian. <strong>TAC-Diff: Texture-Anchored Color Diffusion for Low-Light Image Enhancement</strong>. IEEE Transactions on Image Processing, 2026. 
 
 - [19] J Ke, S Zhao, X Xu, K Zhang, Y Xiong, G Zhang, <strong>F Ma</strong>, L He, H Chen,G Ding, X Gao. <strong>TCFMAD: Tri-Consistency Foundation Model-Based Few-Shot Manufacturing Anomaly Detection</strong>. IEEE Transactions on Automation Science and Engineering, 2026. 
 
