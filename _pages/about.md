@@ -136,6 +136,8 @@ redirect_from:
 
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Conference Papers</span>** 
 
+- [36] X Mo, S Guo, Y Nie, <strong>F Ma</strong>, X Xu, C Long. <strong>A Training-Free Video Moment Retrieval Framework via Selection from Multiple Visual Prompts</strong>. NeurIPS 2026. 
+
 - [35] G Li, <strong>F Ma</strong>, H Xu, Q Tian. <strong>MEIR: Memory-Enhanced Incongruity-Aware Reasoning for Multimodal Sarcasm Detection and Explanation</strong>. ACM MM 2026. 
 
 - [34] J Chen, J Kong, M Chen, B Zhang, S Zhang, H Zhao, R Huang, <strong>F Ma</strong>, Q Tian. <strong>UniGarment: Topology-Guided Texture Normalization for Simulation-Ready Garment Digitization</strong>. ACM MM 2026. 
