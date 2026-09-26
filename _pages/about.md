@@ -253,6 +253,20 @@ redirect_from:
 - [1] [<strong>GMTalker</strong>](https://github.com/GML-MMGroup/GMTalker): Lightweight, Fully Offline Real-Time Interactive 3D Digital Human. [![GitHub stars](https://img.shields.io/github/stars/GML-MMGroup/GMTalker?style=flat&label=stars&logo=github)](https://github.com/GML-MMGroup/GMTalker)
 
 
+<span class='anchor' id='-grant'></span>
+# Grants
+- Guangming Laboratory, Genius Nova Program, PI, 2000k RMB
+- Guangming Laboratory, Research Task Assignment Project, PI, 600k RMB
+- National Natural Science Foundation of China, Youth Program, PI, 300k RMB
+- Guangdong Basic and Applied Basic Research Foundation, General Program, PI, 100k RMB
+- Guangdong Guangzhou Daily Media, Technical Service Project, PI, 850k RMB
+- Guangdong Guangzhou Daily Media,  Technical Cooperation Project, PI, 585k RMB
+- Guangming Laboratory, Sub-project of a Technical Service Project, PI, 412k RMB
+- Tsinghua SIGS, Technical Service Project, PI, 100k RMB
+
+
+
+
 
 <span class='anchor' id='-hy'></span>
 # Honors & Awards

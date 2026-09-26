@@ -12,6 +12,9 @@ main:
   - title: "Open-Source Projects"
     url: "/#-osp"
 
+  - title: "Grants"
+    url: "/#-grant"
+
   - title: "Honors & Awards"
     url: "/#-hy"
 
