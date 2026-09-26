@@ -255,14 +255,14 @@ redirect_from:
 
 <span class='anchor' id='-grant'></span>
 # Grants
-- Guangming Laboratory, Genius Nova Project, PI, 2000k RMB
-- Guangming Laboratory, Research Task Assignment Project, PI, 600k RMB
-- National Natural Science Foundation of China, Youth Project, PI, 300k RMB
-- Guangdong Basic and Applied Basic Research Foundation, General Project, PI, 100k RMB
-- Guangdong Guangzhou Daily Media, Technical Service Project, PI, 850k RMB
-- Guangdong Guangzhou Daily Media, Technical Cooperation Project, PI, 585k RMB
-- Guangming Laboratory, Sub-project of a Technical Service Project, PI, 412k RMB
-- Tsinghua SIGS, Technical Service Project, PI, 100k RMB
+- Guangming Laboratory, Genius Nova Program, PI, 2000k RMB
+- Guangming Laboratory, Research Task Assignment Program, PI, 600k RMB
+- National Natural Science Foundation of China, Youth Program, PI, 300k RMB
+- Guangdong Basic and Applied Basic Research Foundation, General Program, PI, 100k RMB
+- Guangdong Guangzhou Daily Media, Technical Service Program, PI, 850k RMB
+- Guangdong Guangzhou Daily Media, Technical Cooperation Program, PI, 585k RMB
+- Guangming Laboratory, Sub-Program of a Technical Service Program, PI, 412k RMB
+- Tsinghua SIGS, Technical Service Program, PI, 100k RMB
 
 
 
