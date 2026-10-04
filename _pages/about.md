@@ -255,7 +255,7 @@ redirect_from:
 
 <span class='anchor' id='-grant'></span>
 # Grants
-- Guangming Laboratory, Genius Nova Program, PI, 2000k RMB
+- Guangming Laboratory, Top Mind Program, PI, 2000k RMB
 - Guangming Laboratory, Research Task Assignment Program, PI, 600k RMB
 - National Natural Science Foundation of China, Youth Program, PI, 300k RMB
 - Guangdong Basic and Applied Basic Research Foundation, General Program, PI, 100k RMB
@@ -290,6 +290,7 @@ redirect_from:
 <span class='anchor' id='-membership'></span>
 # Memberships
 - 中国中文信息学会情感计算专委会委员
+- 中国仿真学会多模态交互与认知仿真专委会委员
 - 大湾区昇腾算力应用创新研究院技术专家委员会委员
 - 广东省图象图形学会情感计算专委会副秘书长
 - 广东省青年科学家协会会员
