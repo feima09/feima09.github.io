@@ -43,6 +43,7 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 # Recent News
+- [2026/10] One paper is accepted by IF.
 
 - [2026/09] We release [<strong>HUG-VIS</strong>](https://huggingface.co/datasets/GML-MMGroup/HUG-VIS), a unified benchmark for Human-centered Understanding and Generation in VISual intelligence.
 
@@ -93,6 +94,8 @@ redirect_from:
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
+- [21] <strong>F Ma</strong>, D Yin, X Li, Z Yu, S Zhao, F Ren, Q Tian. <strong>C4-Mamba: Quality-Adaptive Multi-View Fusion for Dynamic Emotion Recognition</strong>. Information Fusion, 2026. 
+
 - [20] X Xu, J Wu, W Liu, <strong>F Ma</strong>, K Jiang, Q Tian. <strong>TAC-Diff: Texture-Anchored Color Diffusion for Low-Light Image Enhancement</strong>. IEEE Transactions on Image Processing, 2026. 
 
 - [19] J Ke, S Zhao, X Xu, K Zhang, Y Xiong, G Zhang, <strong>F Ma</strong>, L He, H Chen,G Ding, X Gao. <strong>TCFMAD: Tri-Consistency Foundation Model-Based Few-Shot Manufacturing Anomaly Detection</strong>. IEEE Transactions on Automation Science and Engineering, 2026. 
@@ -290,6 +293,7 @@ redirect_from:
 <span class='anchor' id='-membership'></span>
 # Memberships
 - 中国中文信息学会情感计算专委会委员
+- 中国图学学会可视化与认知计算专委会委员
 - 中国仿真学会多模态交互与认知仿真专委会委员
 - 大湾区昇腾算力应用创新研究院技术专家委员会委员
 - 广东省图象图形学会情感计算专委会副秘书长
@@ -327,6 +331,8 @@ redirect_from:
 - **Guest Editor:**
 
 &emsp;&emsp;Special Issue "[Affective Computing Meets Embodied Intelligence: Emotion Perception, Reasoning, and Interaction in Embodied Agents](https://www.frontiersin.org/research-topics/84338/)" on Frontiers in Robotics and AI (IF=3.7)
+
+&emsp;&emsp;Special Issue "[Interdisciplinary Applications of Embodied Intelligence](https://onlinelibrary.wiley.com/page/journal/25778196/call-for-papers/si-2026-001221)" on Engineering Reports (IF=2.9)
 
 
 - **Journal Reviewer:**
