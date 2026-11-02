@@ -96,8 +96,7 @@ redirect_from:
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
-- [22] J Ke, <strong>F Ma</strong>, F Kong, Y Ji, J Liu, X Liu, S Zhao, G Ding, Q Tian. <strong>
-Balanced Prototype-Guided Reconstruction with False-Negative Suppressed Contrast for Self-Supervised Video Hashing</strong>. IEEE Transactions on Multimedia, 2026. 
+- [22] J Ke, <strong>F Ma</strong>, F Kong, Y Ji, J Liu, X Liu, S Zhao, G Ding, Q Tian. <strong>Balanced Prototype-Guided Reconstruction with False-Negative Suppressed Contrast for Self-Supervised Video Hashing</strong>. IEEE Transactions on Multimedia, 2026. 
 
 - [21] <strong>F Ma</strong>, D Yin, X Li, Z Yu, S Zhao, F Ren, Q Tian. <strong>C4-Mamba: Quality-Adaptive Multi-View Fusion for Dynamic Emotion Recognition</strong>. Information Fusion, 2026. 
 
@@ -297,9 +296,9 @@ Balanced Prototype-Guided Reconstruction with False-Negative Suppressed Contrast
 
 <span class='anchor' id='-membership'></span>
 # Memberships
+- 中国图像图形学会情感计算与理解专业委员会
 - 中国中文信息学会情感计算专委会委员
 - 中国图学学会可视化与认知计算专委会委员
-- 中国仿真学会多模态交互与认知仿真专委会委员
 - 大湾区昇腾算力应用创新研究院技术专家委员会委员
 - 广东省图象图形学会情感计算专委会副秘书长
 - 广东省青年科学家协会会员
@@ -309,6 +308,7 @@ Balanced Prototype-Guided Reconstruction with False-Negative Suppressed Contrast
 
 <span class='anchor' id='-ryjx'></span>
 # Invited Talks
+- [2026/10/31] "以人为中心的世界模型：多模态理解、生成与交互" —— 第四届情感智能大会，镇江
 - [2026/08/11] "迈向以人为中心的世界模型：初步探索" —— 鹏城实验室，深圳
 - [2025/12/28] "基于大模型与AIGC的情感智能：从感知理解到具身共情" —— AIGC 2025（第三届人工智能生成内容国际会议暨大模型应用创新大会），杭州
 - [2025/12/17] "生成式情感智能：从数字大脑到具身实体的跨越" —— 清华大学深圳国际研究生院，深圳
