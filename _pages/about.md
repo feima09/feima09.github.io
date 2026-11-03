@@ -55,7 +55,7 @@ redirect_from:
 
 - [2026/08] One paper is accepted by IEEE Transactions on Affective Computing.
 
-- [2026/07] We take 1st, 2nd, and 3rd place across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
+- [2026/07] We take 1st and 2nd across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
 
 - [2026/07] Four papers are accepted by ACM MM.
 
@@ -285,7 +285,7 @@ redirect_from:
 - 2024年 深圳广告创意制作大赛AI创意生成类优秀奖 -->
 - [2026/07] 1st Place in the Egocentric Language-Vision Interactive Network Knowledge Challenge (EgoLink) @ ACM MM 2026
 - [2026/07] 2nd Place in the Challenge of Fine-Grained Emotion Understanding and Generation in Artistic Images (AffectiveArt) @ ACM MM 2026
-- [2026/07] 3rd Place in the Challenge of Multimodal Personality-Aware Depression Detection via Audio-Visual Interview and Gait Analysis (MPDD-AVG) @ ACM MM 2026
+- [2026/07] 1st Place and 2nd Place in the Challenge of Multimodal Personality-Aware Depression Detection via Audio-Visual Interview and Gait Analysis (MPDD-AVG) @ ACM MM 2026
 - [2026/02] 光明实验室优秀团队
 - [2026/02] 光明实验室优秀个人
 - [2025/11] 中国国际高新技术成果交易会优秀科研成果创新奖
