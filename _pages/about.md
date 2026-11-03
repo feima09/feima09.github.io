@@ -55,7 +55,7 @@ redirect_from:
 
 - [2026/08] One paper is accepted by IEEE Transactions on Affective Computing.
 
-- [2026/07] We take 1st and 2nd across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
+- [2026/07] We take 1st and 2nd places across three challenges at ACM MM 2026: EgoLink, AffectiveArt, and MPDD-AVG.
 
 - [2026/07] Four papers are accepted by ACM MM.
 
