@@ -3,8 +3,11 @@ main:
   - title: "Home"
     url: "/#about-me"
 
-  # - title: "Recent News"
-  #   url: "/#-xl"
+  - title: "Research Interests"
+    url: "/#-interests"
+
+  - title: "Recent News"
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-pub"

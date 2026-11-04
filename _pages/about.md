@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -18,7 +17,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 # Home
+
 &emsp;&emsp;Fei Ma is a Research Scientist at Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ)（人工智能与数字经济广东省实验室（深圳））, also known as the Guangming Laboratory（光明实验室）, where he leads the Multimedia (MM) Group under the general guidance of Prof. [Qi Tian](https://www.qitian1987.com/index.html). His team focuses on <strong>multimodal content understanding and generation</strong>, with research spanning multimodal large language models, agents, video generation, world models, and affective computing. Currently, the group brings together over 30 members, including engineers, PhD students, and master's students.
 
 &emsp;&emsp;He received his Ph.D. in Information and Communication Engineering from Tsinghua University in 2022 (Advisor: Prof. Lin Zhang), and his B.Eng. in Communication Engineering from University of Electronic Science and Technology of China (UESTC) in 2017. He has published more than 50 papers in top-tier journals such as TPAMI, TIP, TMM, TMC, TMLR, and PR, as well as at CCF-A conferences including ICML, NeurIPS, ICLR, CVPR, ACL, AAAI, and ACM MM. He has led more than 10 R&D projects and filed or been granted over 40 Chinese invention patents. Prior to joining Guangming Laboratory, he worked at Huawei. This combined academic and industrial background drives his commitment to bridging the "last mile" between research breakthroughs and real-world deployment.
@@ -41,8 +42,33 @@ redirect_from:
 
 <!-- &emsp;&emsp;Before joining Guangming Laboratory, he worked at Huawei. This dual "academic + industrial" background drives his commitment to bridging the last mile between research and real-world deployment. His team focuses on human-centered multimodal content understanding and generation, as well as world models, including <color: rgb(255, 0, 0)>Multimodal LLMs</strong>, <strong>AIGC</strong>, <strong>Digital Human & Interaction</color: rgb(255, 0, 0)>, and <strong>Affective Computing</strong>. -->
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-interests'></span>
+
+# Research Interests
+
+- <strong>Proactive Interactive Intelligence</strong>: Developing multimodal agents that understand user intentions and emotions to enable proactive, personalized human–AI interaction.
+
+- <strong>Human-Centered World Models</strong>: Modeling human behavior and human–environment interactions to support prediction, simulation, and human-aware planning.
+
+- <strong>Joint Audio-Visual Generation</strong>: Exploring unified modeling and controllable generation of audio and video with semantic alignment, temporal synchronization, and emotional consistency.
+
+- <strong>Efficient Multimodal Computing on Domestic AI Hardware</strong>: Optimizing model training and inference on domestically developed AI computing platforms, particularly Huawei Ascend, through model compression and hardware–software co-design.
+
+- <strong>主动交互智能</strong>： 研究能够理解用户意图与情感的多模态智能体，实现主动、个性化的人机交互。
+
+- <strong>以人为中心的世界模型</strong>： 建模人类行为及人—环境交互，支持交互结果预测、过程模拟与人本导向的行动规划。
+
+- <strong>音视频协同生成</strong>： 探索音频与视频的统一建模与可控生成，实现语义对齐、时序同步与情感一致的视听内容生成。
+
+- <strong>面向国产算力的多模态高效计算</strong>： 通过模型压缩与软硬件协同设计，优化多模态大模型在国产算力平台，特别是昇腾平台上的训练与推理效率。
+
+
+
+
+<span class='anchor' id='-news'></span>
+
 # Recent News
+
 - [2026/10] One paper is accepted by TMM.
 
 - [2026/10] One paper is accepted by IF.
@@ -261,7 +287,9 @@ redirect_from:
 
 
 <span class='anchor' id='-grant'></span>
+
 # Grants
+
 - Guangming Laboratory, Top Mind Program, PI, 2000k RMB
 - Guangming Laboratory, Research Task Assignment Program, PI, 600k RMB
 - National Natural Science Foundation of China, Youth Program, PI, 300k RMB
@@ -276,7 +304,9 @@ redirect_from:
 
 
 <span class='anchor' id='-hy'></span>
+
 # Honors & Awards
+
 <!-- - 2025年 光明实验室优秀团队
 - 2025年 光明实验室优秀个人
 - 2025年 中国国际高新技术成果交易会优秀科研成果创新奖
@@ -295,7 +325,9 @@ redirect_from:
 
 
 <span class='anchor' id='-membership'></span>
+
 # Memberships
+
 - 中国图像图形学会情感计算与理解专委会委员
 - 中国中文信息学会情感计算专委会委员
 - 中国图学学会可视化与认知计算专委会委员
@@ -307,7 +339,9 @@ redirect_from:
 - 深圳市光明社区科技委员
 
 <span class='anchor' id='-ryjx'></span>
+
 # Invited Talks
+
 - [2026/10/31] "以人为中心的世界模型：多模态理解、生成与交互" —— 第四届情感智能大会，镇江
 - [2026/10/13] "湾测工业安全垂直大模型" —— 第二十六届中国国际工业博览会，上海
 - [2026/08/11] "迈向以人为中心的世界模型：初步探索" —— 鹏城实验室，深圳
@@ -320,6 +354,7 @@ redirect_from:
 
 
 <span class='anchor' id='-ser'></span>
+
 # Services
 
 
@@ -433,7 +468,9 @@ redirect_from:
 
 
 <span class='anchor' id='-teaching'></span>
+
 # Teaching
+
 - Generative Emotion Intelligence, Summer 2026, University of Electronic Science and Technology of China
 - Data Thinking and Behavior, Fall 2025, Tsinghua University
 - Machine Learning, Spring 2025, Shenzhen University
