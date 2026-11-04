@@ -52,7 +52,9 @@ redirect_from:
 
 - <strong>Joint Audio-Visual Generation</strong>: Exploring unified modeling and controllable generation of audio and video with semantic alignment, temporal synchronization, and emotional consistency.
 
-- <strong>Efficient Multimodal Computing on Domestic AI Hardware</strong>: Optimizing model training and inference on domestically developed AI computing platforms, particularly Huawei Ascend, through model compression and hardware–software co-design.
+- <strong>Foundation Model Post-Training and Reinforcement Learning</strong>: Investigating instruction tuning, preference alignment, and reinforcement learning for foundation models, with an emphasis on feedback-driven capability enhancement to improve reasoning, decision-making, and complex problem-solving.
+
+- <strong>Efficient Multimodal Computing on Domestic AI Hardware</strong>: Optimizing the training and inference efficiency of large models on domestically developed AI computing platforms, particularly Huawei Ascend and Xinchuang GPUs, through model compression and hardware–software co-design.
 
 - <strong>主动交互智能</strong>： 研究能够理解用户意图与情感的多模态智能体，实现主动、个性化的人机交互。
 
@@ -60,7 +62,9 @@ redirect_from:
 
 - <strong>音视频协同生成</strong>： 探索音频与视频的统一建模与可控生成，实现语义对齐、时序同步与情感一致的视听内容生成。
 
-- <strong>面向国产算力的多模态高效计算</strong>： 通过模型压缩与软硬件协同设计，优化多模态大模型在国产算力平台，特别是昇腾平台上的训练与推理效率。
+- <strong>大模型后训练与强化学习</strong>： 研究大模型的指令微调、偏好对齐与强化学习方法，探索反馈驱动的能力优化机制，提升模型的推理、决策与复杂任务求解能力。
+
+- <strong>面向国产AI算力的多模态高效计算</strong>： 通过模型压缩与软硬件协同设计，优化大模型在国产算力平台，特别是昇腾与信创GPU上的训练与推理效率。
 
 
 
