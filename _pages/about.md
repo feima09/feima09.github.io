@@ -73,6 +73,8 @@ redirect_from:
 
 # Recent News
 
+- [2026/11] One paper is accepted by MIR.
+
 - [2026/10] One paper is accepted by TMM.
 
 - [2026/10] One paper is accepted by IF.
@@ -126,6 +128,11 @@ redirect_from:
 * For more paper information, please refer to the [Google Scholar page](https://scholar.google.com/citations?hl=zh-CN&user=RJOEAMYAAAAJ&view_op=list_works&sortby=pubdate).
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
+
+- [24] C Xiao, L Hou, <strong>F Ma</strong>, X Wang, L Shen. <strong>DualP-Seg: A Dual-Stage Language-Guided Prototype-Learning Framework for Few-Shot Medical Image Segmentation</strong>. Machine Intelligence Research, 2026. 
+
+- [23] H Hu, J Si, Q Wang, <strong>F Ma</strong>, F Ren, S Zhao, Y Zhou, L Cui. <strong>Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling</strong>. IEEE Transactions on Affective Computing, 2026. 
+
 - [22] J Ke, <strong>F Ma</strong>, F Kong, Y Ji, J Liu, X Liu, S Zhao, G Ding, Q Tian. <strong>Balanced Prototype-Guided Reconstruction with False-Negative Suppressed Contrast for Self-Supervised Video Hashing</strong>. IEEE Transactions on Multimedia, 2026. 
 
 - [21] <strong>F Ma</strong>, D Yin, X Li, Z Yu, S Zhao, F Ren, Q Tian. <strong>C4-Mamba: Quality-Adaptive Multi-View Fusion for Dynamic Emotion Recognition</strong>. Information Fusion, 2026. 
@@ -440,6 +447,8 @@ redirect_from:
 &emsp;&emsp;AAAI Conference on Artificial Intelligence（AAAI） (2027, 2026)
 
 &emsp;&emsp;ACM International Conference on Multimedia（ACM MM） (2025，2024)
+
+&emsp;&emsp;IEEE International Conference on Robotics and Automation (ICRA) (2026)
 
 &emsp;&emsp;IEEE International Conference on Multimedia and Expo（ICME） (2023，2022，2021)
 
