@@ -378,9 +378,9 @@ redirect_from:
 
 &emsp;&emsp;ACM MM 2026 Grand Challenge（[MER 2026](https://zeroqiaoba.github.io/MER-Challenge/)）
 
-&emsp;&emsp;ACM MM 2026 Oral Session（Embodied and Immersive Multimedia III）
+&emsp;&emsp;ACM MM 2026 Oral Session (Embodied and Immersive Multimedia III)
 
-&emsp;&emsp;ACM MM 2026 Oral Session（Multimedia Language III）
+&emsp;&emsp;ACM MM 2026 Oral Session (Multimedia Language III)
 
 &emsp;&emsp;VALSE 2026 特色角（不止Paper，"攒局"指南）
 
