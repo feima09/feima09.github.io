@@ -345,6 +345,7 @@ redirect_from:
 - 大湾区昇腾算力应用创新研究院技术专家委员会委员
 - 广东省图象图形学会情感计算专委会副秘书长
 - 广东省青年科学家协会会员
+- 光明实验室开放课题评审委员
 - 深圳市哲学社会科学重点实验室主任助理
 - 数字深圳联合创新中心专家委员会委员
 - 深圳市光明社区科技委员
@@ -376,6 +377,10 @@ redirect_from:
 &emsp;&emsp;ACM MM 2026 Grand Challenge（[NeuroMM 2026](https://2026.neuromm.org/)）
 
 &emsp;&emsp;ACM MM 2026 Grand Challenge（[MER 2026](https://zeroqiaoba.github.io/MER-Challenge/)）
+
+&emsp;&emsp;ACM MM 2026 Oral Session（Embodied and Immersive Multimedia III）
+
+&emsp;&emsp;ACM MM 2026 Oral Session（Multimedia Language III）
 
 &emsp;&emsp;VALSE 2026 特色角（不止Paper，"攒局"指南）
 
