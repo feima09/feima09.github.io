@@ -73,6 +73,8 @@ redirect_from:
 
 # Recent News
 
+- [2026/11] One paper is accepted by CAAI Transactions on Intelligence Technology.
+
 - [2026/11] One paper is accepted by MIR.
 
 - [2026/10] One paper is accepted by TMM.
@@ -129,6 +131,8 @@ redirect_from:
 
 ### **<span style="font-size: 1.2em; color: rgb(46, 134, 193);">Journal Papers</span>**
 
+- [25] Y Shan, J Zhang, H Wang，J Ke, <strong>F Ma</strong>, S Zhao. <strong>ATCSA-Net: A Confusion-Guided Hierarchical Framework for Fine-Grained DAS Vibration Recognition</strong>. CAAI Transactions on Intelligence Technology, 2026. 
+
 - [24] C Xiao, L Hou, <strong>F Ma</strong>, X Wang, L Shen. <strong>DualP-Seg: A Dual-Stage Language-Guided Prototype-Learning Framework for Few-Shot Medical Image Segmentation</strong>. Machine Intelligence Research, 2026. 
 
 - [23] H Hu, J Si, Q Wang, <strong>F Ma</strong>, F Ren, S Zhao, Y Zhou, L Cui. <strong>Beyond Empathy: Integrating Diagnostic and Therapeutic Reasoning with Large Language Models for Mental Health Counseling</strong>. IEEE Transactions on Affective Computing, 2026. 
@@ -171,11 +175,11 @@ redirect_from:
 
 - [4] H Ren, Y Zhou, J Zhu, X Lin, H Fu, Y Huang, Y Fang, <strong>F Ma</strong>, H Yu, B Cheng. <strong>Rethinking Efficient and Effective point-based Networks for Event Camera Classification and Regression</strong>. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025. 
 
-- [3] Y Liu, H Hou, <strong>F Ma</strong>, S Ni, F Yu. <strong>MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding</strong>. IEEE Signal Processing Letters, 2024. 
+- [3] C Wang, H Yu, X Li, <strong>F Ma</strong>, X Wang, T Taleb, VCM Leung. <strong>Dependency-Aware Microservice Deployment for Edge Computing: A Deep Reinforcement Learning Approach with Network Representation</strong>. IEEE Transactions on Mobile Computing, 2024.
 
-- [2] <strong>F Ma</strong>, Y Yuan, Y Xie, H Ren, I Liu, Y He, F Ren, F Yu, S Ni. <strong>Generative Technology for Human Emotion Recognition: A Scoping Review</strong>. Information Fusion, 2024. 
+- [2] Y Liu, H Hou, <strong>F Ma</strong>, S Ni, F Yu. <strong>MLLM-TA: Leveraging Multimodal Large Language Models for Precise Temporal Video Grounding</strong>. IEEE Signal Processing Letters, 2024. 
 
-- [1] C Wang, H Yu, X Li, <strong>F Ma</strong>, X Wang, T Taleb, VCM Leung. <strong>Dependency-Aware Microservice Deployment for Edge Computing: A Deep Reinforcement Learning Approach with Network Representation</strong>. IEEE Transactions on Mobile Computing, 2024.
+- [1] <strong>F Ma</strong>, Y Yuan, Y Xie, H Ren, I Liu, Y He, F Ren, F Yu, S Ni. <strong>Generative Technology for Human Emotion Recognition: A Scoping Review</strong>. Information Fusion, 2024. 
 
 
 ### **<span style="font-size: 1.2em; color: #2E86C1;">Conference Papers</span>** 
